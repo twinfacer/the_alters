@@ -5,23 +5,25 @@
 - Menerals        ???V
 - Enriched Metal  ???V
 - ALX             1V
+- Polymers        1V
 - Mush            4V
 - Raw Food        5V
 - Meals           
 
 ### Resources Nodes
-- Shallow Metal Deposit -     60U 
-- Shallow Rapidium Deposit -  60U
-- Deep Organics Deposit - (14 x 1:00)
+- Shallow Metal Deposit - 60 MT 
+- Shallow Rapidium Deposit - 60 RaP
+- Deep Organics Deposit - (14 OG x 1:00)
+- Deep Metal Deposit - (8 MT x 1:00)
 
 ### Buildings (Repair Time - 3:00 ???)
-- Coridor (10 MT) 
+- Coridor (10 MT) 2T - 1x2
 - Elevator (10 MT) 2T - 1x2
 - Small Storage (30 MT) - 28T - 2x2 (+120 V)
 - Workshop (40 MT) 8T - 1x4
   - Exploration
     - Mining Outpost (30 MT - 2:00 ) 25V
-    - Pylon (x3)      (30 MT - 1:18) 24V
+    - Pylon (x3) (30 MT - 1:18) 24V
   - Consumables
     - Repair Kit (10 MT - 1:00) 2V
     - Radiation Filter (10 MT/40 OG - 2:00) 20V
@@ -39,7 +41,7 @@
 
 ## Maps
 ### Prologue
-- 4 x Shallow Metal Deposit (1h? ish)
+- 4 x Shallow Metal Deposit
 - 1 x Shallow Rapidium Deposit
 - 1 x Deep Organics Deposit
 
@@ -48,6 +50,29 @@ Items
 - Bong (Miner???)
 - Multitool (Mechanic)
 - History Of The Universe Movie
+
+### Act 1
+- 5 x Shallow Metal Deposit
+- 3 x Shallow Organics Deposit
+- 2 x Shallow Rapidium Deposit
+- 2 x Shallow Minerals Deposit
+- 1 x Deep Metal Deposit
+- 1 x Deep Organics Deposit
+- 1 x Deep Papidium Deposit
+- 1 x Deep Enriched Metals Deposit
+- 1 X Deep Minerals Deposit
+
+- 2 x Iternal Vien
+
+Items:
+-  Class Photo
+-  Rubber Duck (Scientist???)
+-  Marked Cards
+-  Soccer Ball
+-  Lava Lamp (Miner???)
+-  People who allways ends your sentances movie
+-  Secret alien movie
+-  Damaged Qubit Chip
 
 ### Starting Base (152 T, 220/480V)
 - 6 x Elevator (12 = 6 x 2)
@@ -72,7 +97,7 @@ Items
 === Prologue (01-04) === 
 
 == Day 01
-- Run to Base, Contact Earth, turn on radiation filters _auto use_ in __Mashinery__ then goto sleep.
+- Run to Base, Contact Earth, (??? turn on radiation filters _auto use_ in __Mashinery__) then goto sleep.
 
 == Day 02
 - Go outside - gather 2 __SMetal__ on the way to __DOrganics__.
@@ -151,9 +176,28 @@ Day 06
 - Speak with __Mechanic__.
 
 ```
---- DISSCUSS
+--- DISSCUS
+
+```
+- Build neccasary base modules - __Laboratory__, .
+- Queue neccesary stuff in __Workshop__ (__Miner Outpost__, __Grappling Hook__ and __Ventra Drill__), assign __Technitian__ to it.
+- Go outside. Goto up left and collect 2 __SMetal__ deposit then return close to base.
+- Goto bottom-left through __DEnriched__ (turn right in the middle to collect  __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__) find __DMetal__. Build __Miner Outpost__. Connect it w Base using 3 __Pylons__ throug cliff. (??? assign __Technitian__ to work here, he must be done with __Workshop__ tasks by now)
+- Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
+- Goto __QC__ and create __Scientist__ alter. Then goto sleep.
+
+Day 7
+- Goto __Womb__ and wake up __Scientist__.  
+
+```
+--- 
 
 ```
 
-- Goto bottom-left - find __DMetal__. Build __Miner Outpost__. Then go down and collect __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__.
+- Assign __Scientist__ to __Laboratory__. Goto talk to __Technitian__. (DORM?)
+
+```
+---
+
+```
 
