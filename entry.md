@@ -11,8 +11,8 @@
 - Meals           
 
 ### Resources Nodes
-- Shallow Metal Deposit - 60 MT 
-- Shallow Rapidium Deposit - 60 RaP
+- Shallow Metal Deposit - 60 MT  (1:30)
+- Shallow Rapidium Deposit - 60 RaP (3:00)
 - Deep Organics Deposit - (14 OG x 1:00)
 - Deep Metal Deposit - (8 MT x 1:00)
 
@@ -102,64 +102,84 @@ Items:
 === Prologue (01-04) === 
 
 == Day 01
-- Run to Base, Contact Earth, turn on _low failure risk_ in __Mashinery__ (??? and turn on radiation filters _auto use_) then goto sleep.
+- Run to Base, Contact Earth, (??? and turn on radiation filters _auto use_) then goto sleep.
 
-== Day 02
+== Day 02 (30 MT, 100 OG, 19 MU)
 - Go outside - gather 2 __SMetal__ on the way to __DOrganics__.
 - Return to base - build __Workshop__ and __Elevator__ to lowest lvl then move __QC__ there.  Craft __Scanner__. Goto towards __DOrganics__ but left.
 - Gather __SRapidium__ on the way then goto and find __DOrganics__. Build __Miner Outpost__ there. Then connect __Miner Outpost__ via __Pylons__ through cliff.
-- Goto and collect items at 2 sites at bottom of a map. Then goto base. If you have spart time - goto __DOrganics__ and mine them until days come to end.
+- Goto and collect items at 2 sites at bottom of a map. Then goto base. If you have spare time - goto __DOrganics__ and mine them until days come to end.
 - Answer phonecall from __Lucas__. Build __Womb__ at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
 
-== Day 03
+== Day 03 (40+ MT , 100+ OG, 50 RaP, 18 MU)
 - Goto another 2 __SMetal__ deport and grind them. Then returns to base entrance then TP to __DOrganics__ and grind them until night. Then TP to Base.
 - Build a __Kitchen__ (up to __Airlock__), craft __Mush__ till you are near _exhausted_. Then goto sleep.
 
-== Day 04 
-- Continue craft __Mush__ til quest is done. After that go __DOrganics__ and grind them until either night or 300 reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Mechanic__ alter.
+== Day 04 (160+ MT , ~200 OG, 50 RaP, ~20 MU)
+- Continue craft __Mush__ til quest is done (23 __Mush__). After that go __DOrganics__ and grind them until 300 OG reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter.
 
 ```
-  --- WTF - [ANEX], [INSEC].
-    -> (LAB) - [ANEX], [FRUST].
-    -> (EMG) - [ANEX], [LESS_JOY].
-
-  --- Meds - [INSEC] -> [ANEX], [LESS_JOY]
-
+  --- HELLO - [ANEX] + [INSEC]
+  --- WTF
+    -> (LAB) - [-ANEX] + [-FRUST].
+    -> (EMG) - [ANEX] + [-JOY].
+  --- MEDS - [INSEC] -> [ANEX] + [-JOY]
   --- NAME
-    -> (HIM_FIRST) - [INSEC], [LESS_REBEL]
-    -> (ME)        - [JOY], [LESS_GLOOM]
-
+    -> (HIM_FIRST) - [INSEC] + [-REBEL]
+    -> (ME)        - [JOY] + [-GLOOM]
+  --- WORKS (=? HIM_FIRST)? 
   --- IS_EXPERIMENT
-    -> (YES) - [REBEL], [LESS_JOY]
-    -> (NO)  - [ANEX], [LESS_JOY]
-
+    -> (YES) - [REBEL] + [-JOY]
+    -> (NO)  - [ANEX] + [-JOY]
   --- ALTERNATE
-    - (YES) - [LESS_GLOOM], [LESS_INSEC]
-    - (NO)  - []
-
+    - (YES) - [-GLOOM] + [-INSEC]
+    - (NO)  - [FRUST] + [REBEL]
   --- EXISTENTIAL
-    -> [SOMEWHERE] -
-    -> [TRUTH]     - [LESS_REBEL], [LESS_FRUST]
-
-  --- END - [REBEL] -> [FRUST] -> [REBEL], [FRUST] -> [REBEL]
+    -> [SOMEWHERE] - [FRUST] + [GLOOM]
+    -> [TRUTH]     - [-REBEL] + [-FRUST]
+  --- END - [REBEL] + [FRUST] -> [REBEL] + [FRUST] -> [REBEL]
 ```
 
-=== Journey 1 ===
-- Speak to your alt at __Kitchen__.
+=== Journey 1 (5) ===
+- Speak to __Technician__ at __Kitchen__.
 
-=== Kitchen dialog with Mechanic 
 ```
----
+--- GTFO
+  -> [HELP] - [FRUST] + [GLOOM]
+    --- GTFO
+      -> [SAME] - [FRUST] + [REBEL]
+        --- OIL&WATER
+          -> [TOGETHER] - NONE
+          -> [I CREATE YOU]
+      -> [D'NT TALK TO ME THIS WAY]
+  -> [GRIP]
 ```
 
-- Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
-- Speak to you alt at __Kitchen__.
+- Turn on _low failure risk_ in __Mashinery__. Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
+- Speak to __Technician__ at __Kitchen__.
 
-=== Second kitchen dialog with Mechanic 
 ```
 --- THINKING
   -> (DIFF) - 
-  -> (COMMON) - 
+  -> (COMMON) - [FRUST] + [REBEL]
+    --- WHAT
+      -> (PARETNS) - [FRUST] + [LESS_JOY]
+        --- NOT_ENOUGH
+          -> (VS_DAD) -   [FRUST] + [MOTIV]
+            --- BREAKING_POINT
+              -> (I'M COWARD)  - [LESS_FRUST] + [LESS_ANEX]
+                --- MOM STILL AROUND? - [LESS_] + [LESS_]
+                --- [BURD] + [LESS_JOY]
+                --- PIROGI - [LESS_GLOOM]
+                --- PIG - [JOY] + [LESS_GLOOM]
+                --- MAKE PIROGI - [LESS_REBEL] + [MOTIV]
+                  -> (COOLANT) - [JOY] + [LESS_GLOOM]
+                  -> (BEER)
+                  -> (GREASE)
+              -> (D'NT CHANGE) -
+          -> (COLLEDGE) - 
+      -> (GROW_UP)
+
 ```
 
 - Make pirogi at __Kitchen__. Eat pirogi with your alt
@@ -178,7 +198,7 @@ Items:
 
 === Act I (6-???) ===
 
-== Day 06
+== Day 06 (150+ MT, ??? OG 30 RaP, ?? MU)
 - Speak with __Mechanic__.
 
 ```
@@ -212,7 +232,7 @@ Items:
 - ??? Return back and find __DRamidium__ deposit (??? and build __Miner Outpost__ on them)
 - ??? Return back and connect __Travel Pylon__ to your network. TP to base. (??? or grind some resources before night if has time) (??? turn on _radiation filter_ now?)
 - ??? Build __Greenhouse__
-- Goto sleep.
+- (??? talk to __Scientist__ ) Goto sleep.
 
 == Day 8
 
