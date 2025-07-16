@@ -94,7 +94,8 @@ Items
 - Build a __Kitchen__ (up to __Airlock__), craft __Mush__ till you are _exhausted_. Then goto sleep.
 
 == Day 04 
-- Continue craft __Mush__ til quest is done. After that go __DOrganics__ and grind them until either night or 300 reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Mechanic__ alter. 
+- Continue craft __Mush__ til quest is done. After that go __DOrganics__ and grind them until either night or 300 reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Mechanic__ alter.
+
 === Dialog w Mechanic 1
 ```
   --- WTF - [ANEX], [INSEC].
