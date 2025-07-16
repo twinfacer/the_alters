@@ -9,13 +9,12 @@
 - Raw Food        5V
 - Meals           
 
-
 ### Resources Nodes
 - Shallow Metal Deposit -     60U 
 - Shallow Rapidium Deposit -  60U
 - Deep Organics Deposit - (14 x 1:00)
 
-### Buildings
+### Buildings (Repair Time - 3:00 ???)
 - Coridor (10 MT) 
 - Elevator (10 MT) 2T - 1x2
 - Small Storage (30 MT) - 28T - 2x2 (+120 V)
@@ -24,19 +23,19 @@
     - Mining Outpost (30 MT - 2:00 ) 25V
     - Pylon (x3)      (30 MT - 1:18) 24V
   - Consumables
-    - Repair Kit (10 MT - 1:00)
-    - Radiation Filter (10 MT/40 OG - ) 20V
-    - Suit Battery (40 OG - ???)
+    - Repair Kit (10 MT - 1:00) 2V
+    - Radiation Filter (10 MT/40 OG - 2:00) 20V
+    - Drill Cartrige (20 MT - 1:00) 15V?
+    - Suit Battery (40 OG - 1:00)
   - Toolz
-    - Scanner (20 MT - 1:00) 0V
-    - Ventra Drill (50 MT/20 OG 1:00) ACT1
-    - Climbing Hook (60 MT/120 OG) ACT1
-- Kitchen (40MT) 4T - 1x5
-  - Pierogi (2 RF - 1:00) QUEST
-  - Mush (5O - 0:30) 4V
-- Womb (40MT) 4T - 1x5
+    - Scanner (20 MT - 1:00) 0V PROLOGUE,QUEST
+    - Ventra Drill (50 MT/20 OG - 1:00) ACT1
+    - Climbing Hook (60 MT/120 OG - 1:00) ACT1
+- Kitchen (40 MT) 4T - 1x5
+  - Pierogi (2 RF - 1:00) JOURNEY1,QUEST
+  - Mush (5 OG - 0:30) 4V
+- Womb (40 MT) 4T - 1x5
   - New Alter (20 RaP - 8:00)
-
 
 ## Maps
 ### Prologue
@@ -49,7 +48,6 @@ Items
 - Bong (Miner???)
 - Multitool (Mechanic)
 - History Of The Universe Movie
-
 
 ### Starting Base (152 T, 220/480V)
 - 6 x Elevator (12 = 6 x 2)
@@ -90,7 +88,6 @@ Items
 == Day 04 
 - Continue craft __Mush__ til quest is done. After that go __DOrganics__ and grind them until either night or 300 reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Mechanic__ alter.
 
-=== Birth dialog with Mechanic
 ```
   --- WTF - [ANEX], [INSEC].
     -> (LAB) - [ANEX], [FRUST].
@@ -118,9 +115,45 @@ Items
 ```
 
 === Journey 1 ===
-- Speak to your alt, goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life. Speak to you alt, make pirogi. Eat pirogi with your alt (then speak with them ???) then goto answer __Lena__ call.
+- Speak to your alt at __Kitchen__.
+
+=== Kitchen dialog with Mechanic 
+```
+---
+```
+
+- Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
+- Speak to you alt at __Kitchen__.
+
+=== Second kitchen dialog with Mechanic 
+```
+--- THINKING
+  -> (DIFF) - 
+  -> (COMMON) - 
+```
+
+- Make pirogi at __Kitchen__. Eat pirogi with your alt
+
+=== After Pirogi dialog with Mechanic 
+```
+--- SO
+  -> (COOL) - 
+  -> (FEEL) - [JOY], [LESS_GLOOM], [MOTIVATION]
+--- PIROGY
+  -> (BAD)
+  -> (HARD)
+```
+  
+- Goto answer __Lena__ call.
 
 === Act I (6-???) ===
 Day 06
+- Speak with __Mechanic__.
+
+```
+--- DISSCUSS
+
+```
+
 - Goto bottom-left - find __DMetal__. Build __Miner Outpost__. Then go down and collect __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__.
 
