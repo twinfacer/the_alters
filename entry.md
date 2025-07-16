@@ -38,6 +38,11 @@
   - Mush (5 OG - 0:30) 4V
 - Womb (40 MT) 4T - 1x5
   - New Alter (20 RaP - 8:00)
+- Research Lab (40 MT) 8T - 1x4
+- Greenhouse (40 MT/ 20 RaP)
+- Refinery
+- Social Room (40 MT/30 MN)
+- Infirmary (20 MT/60 MN) 16T - 1x6
 
 ## Maps
 ### Prologue
@@ -62,7 +67,7 @@ Items
 - 1 x Deep Enriched Metals Deposit
 - 1 X Deep Minerals Deposit
 
-- 2 x Iternal Vien
+- 2 x Iternal Vein
 
 Items:
 -  Class Photo
@@ -97,7 +102,7 @@ Items:
 === Prologue (01-04) === 
 
 == Day 01
-- Run to Base, Contact Earth, (??? turn on radiation filters _auto use_ in __Mashinery__) then goto sleep.
+- Run to Base, Contact Earth, turn on _low failure risk_ in __Mashinery__ (??? and turn on radiation filters _auto use_) then goto sleep.
 
 == Day 02
 - Go outside - gather 2 __SMetal__ on the way to __DOrganics__.
@@ -172,21 +177,23 @@ Items:
 - Goto answer __Lena__ call.
 
 === Act I (6-???) ===
-Day 06
+
+== Day 06
 - Speak with __Mechanic__.
 
 ```
 --- DISSCUS
 
 ```
-- Build neccasary base modules - __Laboratory__, .
-- Queue neccesary stuff in __Workshop__ (__Miner Outpost__, __Grappling Hook__ and __Ventra Drill__), assign __Technitian__ to it.
+- Build neccasary base modules - __Research Lab__.
+- Queue neccesary stuff in __Workshop__ (__Grappling Hook__, __Miner Outpost__, __Pylon Package__  and __Ventra Drill__) and assign __Technitian__ to it.
 - Go outside. Goto up left and collect 2 __SMetal__ deposit then return close to base.
 - Goto bottom-left through __DEnriched__ (turn right in the middle to collect  __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__) find __DMetal__. Build __Miner Outpost__. Connect it w Base using 3 __Pylons__ throug cliff. (??? assign __Technitian__ to work here, he must be done with __Workshop__ tasks by now)
 - Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
 - Goto __QC__ and create __Scientist__ alter. Then goto sleep.
 
-Day 7
+== Day 7
+- ??? Queue __Miner Outpost__ (??? and __Pylon Package__ if need for pylons) at workshop. Assign ??? to it (If has spare metal and plan to build a __DRapidium__ outpost today)
 - Goto __Womb__ and wake up __Scientist__.  
 
 ```
@@ -194,10 +201,18 @@ Day 7
 
 ```
 
-- Assign __Scientist__ to __Laboratory__. Goto talk to __Technitian__. (DORM?)
+- Assign __Scientist__ to __Research Lab__ (??? mb organics outpost instead). Goto talk to __Technitian__. (DORM?)
 
 ```
 ---
 
 ```
+
+- Go toward __DEnriched__ but instead turn right near it, jump up to cliff and run near __SOrganics__ until you can see you base. Then build __Pylon__ as far form base but close to __SOrganics__ (??? then drill it down) as you can. After __SOrganics__ turn left then right than mine __SRapidium__. Return and clear _rock blockade_ further. Go and when __DRapidium__ deposit starts to appear turn left run further then drill __SMetal__ deposit.
+- ??? Return back and find __DRamidium__ deposit (??? and build __Miner Outpost__ on them)
+- ??? Return back and connect __Travel Pylon__ to your network. TP to base. (??? or grind some resources before night if has time) (??? turn on _radiation filter_ now?)
+- ??? Build __Greenhouse__
+- Goto sleep.
+
+== Day 8
 
