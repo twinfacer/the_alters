@@ -12,9 +12,8 @@
 
 
 ### Resources Nodes
-- Shallow Metal Deposit -     60U
-- Rapidium Shallow Deposit -  60U
-
+- Shallow Metal Deposit -     60U 
+- Shallow Rapidium Deposit -  60U
 
 ### Buildings
 - Coridor (10 MT) 
@@ -40,9 +39,9 @@
 
 ## Maps
 ### Prologue
-3 x Shallow Metal Deposit (1h? ish)
-1 x Shallow Rapidium Deposit
-1 x Deep Organics Deposit (14 X 1:00)
+- 4 x Shallow Metal Deposit (1h? ish)
+- 1 x Shallow Rapidium Deposit
+- 1 x Deep Organics Deposit (14 X 1:00)
 
 Items
 - Lucky Key Charm
@@ -80,7 +79,7 @@ Items
 === Prologue (01-04) === 
 
 == Day 01
-- Run to Base, Contact Earth, turn on filters _auto use_ then goto sleep.
+- Run to Base, Contact Earth, turn on radiation filters _auto use_ in __Mashinery__ then goto sleep.
 
 == Day 02
 - Go outside - gather 2 __SMetal__ on the way to __DOrganics__.
@@ -90,13 +89,13 @@ Items
 - Answer phonecall from __Lucas__. Build __Womb__ at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
 
 == Day 03
-- Goto another 2 __SMetal__ deport and grind them. Then Returns to base entrance then TP to __DOrganics__ and grind them until night. Then TP to Base.
-- Build a __Kitchen__ (up to __Airlock__), craft __Mush__ till you are _exhausted_. Then goto sleep.
+- Goto another 2 __SMetal__ deport and grind them. Then returns to base entrance then TP to __DOrganics__ and grind them until night. Then TP to Base.
+- Build a __Kitchen__ (up to __Airlock__), craft __Mush__ till you are near _exhausted_. Then goto sleep.
 
 == Day 04 
 - Continue craft __Mush__ til quest is done. After that go __DOrganics__ and grind them until either night or 300 reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Mechanic__ alter.
 
-=== Dialog w Mechanic 1
+=== Birth dialog with Mechanic
 ```
   --- WTF - [ANEX], [INSEC].
     -> (LAB) - [ANEX], [FRUST].
