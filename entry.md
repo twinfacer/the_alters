@@ -77,7 +77,8 @@ Items
 
 
 ### Run
-=== Prologue === (01-09)
+=== Prologue (01-04) === 
+
 == Day 01
 - Run to Base, Contact Earth, turn on filters _auto use_ then goto sleep.
 
@@ -97,37 +98,34 @@ Items
 === Dialog w Mechanic 1
 ```
   --- WTF - [ANEX], [INSEC].
-    -> [LAB] - [ANEX], [FRUST].
-    -> [EMG] - [ANEX], [LESS_JOY].
+    -> (LAB) - [ANEX], [FRUST].
+    -> (EMG) - [ANEX], [LESS_JOY].
 
   --- Meds - [INSEC] -> [ANEX], [LESS_JOY]
 
   --- NAME
-    -> (HIM_FIRST) [INSEC], [LESS_REBEL]
-    -> (ME) - [JOY], [LESS_GLOOM]
+    -> (HIM_FIRST) - [INSEC], [LESS_REBEL]
+    -> (ME)        - [JOY], [LESS_GLOOM]
 
   --- IS_EXPERIMENT
-    -> [YES] - [REBEL], [LESS_JOY]
-    -> [NO]  - [ANEX], [LESS_JOY]
+    -> (YES) - [REBEL], [LESS_JOY]
+    -> (NO)  - [ANEX], [LESS_JOY]
 
   --- ALTERNATE
-    - [YES] - [LESS_GLOOM], [LESS_INSEC]
-    - [NO]  - []
+    - (YES) - [LESS_GLOOM], [LESS_INSEC]
+    - (NO)  - []
 
   --- EXISTENTIAL
-    -> [SOMEWHERE]
-    -> [TRUTH]  - [LESS_REBEL], [LESS_FRUST]
+    -> [SOMEWHERE] -
+    -> [TRUTH]     - [LESS_REBEL], [LESS_FRUST]
 
   --- END - [REBEL] -> [FRUST] -> [REBEL], [FRUST] -> [REBEL]
-
-+ [REBEL], + [FRUST]
-+ [FRUST], + [REBEL]
 ```
 
-=== Jorney 1 (+ 1 DAY???) ===
+=== Journey 1 ===
 - Speak to your alt, goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life. Speak to you alt, make pirogi. Eat pirogi with your alt (then speak with them ???) then goto answer __Lena__ call.
 
-=== Act I ===
+=== Act I (6-???) ===
 Day 06
 - Goto bottom-left - find __DMetal__. Build __Miner Outpost__. Then go down and collect __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__.
 
