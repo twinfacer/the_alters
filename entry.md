@@ -145,14 +145,14 @@ Items:
 
 ```
 --- GTFO
-  -> [HELP] - [FRUST] + [GLOOM]
-    --- GTFO
-      -> [SAME] - [FRUST] + [REBEL]
-        --- OIL&WATER
-          -> [TOGETHER] - NONE
-          -> [I CREATE YOU]
-      -> [D'NT TALK TO ME THIS WAY]
-  -> [GRIP]
+  -> (HELP) - [FRUST] + [GLOOM]
+  -> (GRIP) - [FRUST] + [-JOY]
+--- GTFO2
+  -> (SAME) - [FRUST] + [REBEL]
+    --- OIL&WATER
+      -> [TOGETHER] - [FRUST] + [-JOY]
+      -> [I CREATE YOU] - [REBEL] + [-JOY]
+  -> (D'NT TALK TO ME THIS WAY) - [-JOY] + [REBEL] -> DONE
 ```
 
 - Turn on _low failure risk_ in __Mashinery__. Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
@@ -160,10 +160,10 @@ Items:
 
 ```
 --- THINKING
-  -> (DIFF) - 
+  -> (DIFF) - [FRUST] + [-Joy]
   -> (COMMON) - [FRUST] + [REBEL]
     --- WHAT
-      -> (PARETNS) - [FRUST] + [LESS_JOY]
+      -> (PARETNS) - [FRUST] + [-JOY]
         --- NOT_ENOUGH
           -> (VS_DAD) -   [FRUST] + [MOTIV]
             --- BREAKING_POINT
