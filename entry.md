@@ -5,7 +5,7 @@
 - Menerals        ???V
 - Enriched Metal  ???V
 - ALX             1V
-- Mush            5V
+- Mush            4V
 - Raw Food        5V
 - Meals           
 
@@ -21,19 +21,19 @@
 - Small Storage (30 MT) - 28T - 2x2 (+120 V)
 - Workshop (40 MT) 8T - 1x4
   - Exploration
-    - Mining Outpost (30 MT - 2:00 ) 25T
-    - Pylon (x3)      (30 MT - 1:18) 24T
+    - Mining Outpost (30 MT - 2:00 ) 25V
+    - Pylon (x3)      (30 MT - 1:18) 24V
   - Consumables
     - Repair Kit (10 MT - 1:00)
     - Radiation Filter (10 MT/40 OG - ) 20V
-  - Suit Battery (40 OG - ???)
+    - Suit Battery (40 OG - ???)
   - Toolz
-    - Scanner (20 MT - 1:00)
+    - Scanner (20 MT - 1:00) 0V
     - Ventra Drill (50 MT/20 OG 1:00) ACT1
     - Climbing Hook (60 MT/120 OG) ACT1
 - Kitchen (40MT) 4T - 1x5
   - Pierogi (2 RF - 1:00) QUEST
-  - Mush (5O - 0:30) 5V
+  - Mush (5O - 0:30) 4V
 - Womb (40MT) 4T - 1x5
   - New Alter (20 RaP - 8:00)
 
