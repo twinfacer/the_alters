@@ -2,7 +2,7 @@
 - Metal           1V
 - Organics        1V
 - Rapidium        2V
-- Menerals        ???V
+- Menerals        1V
 - Enriched Metal  ???V
 - ALX             1V
 - Polymers        1V
@@ -13,8 +13,13 @@
 ### Resources Nodes
 - Shallow Metal Deposit - 60 MT  (1:30)
 - Shallow Rapidium Deposit - 60 RaP (3:00)
+- Shallow Organics Deposit
+- Shalow Minerals Deposit
 - Deep Organics Deposit - (14 OG x 1:00)
 - Deep Metal Deposit - (8 MT x 1:00)
+- Deep Enriched Metal Deposit (6 MT/6 EM x ???)
+- Deep Rapidium Deposit (6 RP x 0:50)
+- Deep Minerals Deposit
 
 ### Buildings (Repair Time - 3:00 ???)
 - Coridor (10 MT) 2T - 1x2
@@ -29,6 +34,7 @@
     - Radiation Filter (10 MT/40 OG - 2:00) 20V
     - Drill Cartrige (20 MT - 1:00) 15V?
     - Suit Battery (40 OG - 1:00)
+    - Qubit Chip (20 MT/20 MN/1 Broken Chip)
   - Toolz
     - Scanner (20 MT - 1:00) 0V PROLOGUE,QUEST
     - Ventra Drill (50 MT/20 OG - 1:00) ACT1
@@ -40,9 +46,15 @@
   - New Alter (20 RaP - 8:00)
 - Research Lab (40 MT) 8T - 1x4
 - Greenhouse (40 MT/ 20 RaP)
-- Refinery
+- Refinery (40 MT)
+- Dormitory (40 MT)
 - Social Room (40 MT/30 MN)
 - Infirmary (20 MT/60 MN) 16T - 1x6
+- Recycler (30 MN)
+- Gym (70 MT/70 MN)
+- Medium Storage (60 MT/10 MN)
+- Rapidium Ark (30 MT/120 RP/100 OG)
+- Ark Sarcofagus (30 MT/40 RP) 13T - 2x4
 
 ## Maps
 ### Prologue
@@ -237,4 +249,26 @@ Items:
 == Day 8
 
 == Day 16 (Magnetic Storm)
+
+=== Act 2 (Day 20ish) ===
+
+== Day 20 ==
+- __DEnriched__ (+ __Qubit Chip__), __DOrganics__, __DMinerals__
+
+== Day 21 ==
+- Climb and setup __Gravity Scanner__. On the way up turn to cave to get __Movie__ and __Item__.
+
+== Day 22 (Sheep dies) ==
+
+== Day 31 (Magnetic Storm)
+
+== Day ?? (Magnetic Storm)
+
+=== Act 3 (Day 45ish) ===
+
+== Day 49 (Magnetic Storm)
+
+== Day 55 (Magnetic Storm)
+
+
 
