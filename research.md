@@ -46,7 +46,37 @@
 - Park with Bench (10:00) -	Unlocks a Park with Bench where an Alter can relax in his free time. (REQ technitian request???)
 - Recycler (10:00) - Module that produces Organics daily. The more people in base, the more Organics produced.
 - Base Maintenance Workplace (10:00) - Unlocks a second workplace in the Base Maintenance module.
+- __[II]__ Base Expansion II (14:00) - Expands the base, allowing more room for building modules. Additionally expands the Organics tank size to 450.
+  - __[II]__ Medium Storage	II (6:00) -	Unlocks the Medium Storage module with a capacity of 300.
+  - __[II][*]__ Large Storage	(6:00) - Unlocks the Large Storage module with a capacity of 700.
+  - __[II][*]__ Radiation Repulsor (6:00) - Unlocks a Radiation Repulsor Module which makes Radiation Filters more efficient.
+  - __[II]__ Contemplation Room (6:00) - Unlocks a Contemplation Room where a distressed Alter can get better alone or under the supervision of the Shrink or the Guard.
+  - __[II]__ Gym (6:00) -	Unlocks a Gym module where an Alter can exercise in his free time.
+  - __[III]__ Base Expansion (14:00) - Expands the base, allowing more room for building modules. Additionally expands the Organics tank size to 700.
+    - __[III][*]__ Module Shields I (6:00) - Unlocks a Module Shield that slows the deterioration rate of a module by 50%, granting a longer time without repairs. A shielded module also has a bigger chance of not getting damaged during a Magnetic Storm.
+      - __[IV][*]__ Module Shields II (6:00) - Unlocks better, more durable Module Shields. A module with a T2 Shield doesn't break and never gets damage during a Magnetic Storm. 
+    - __[III]__ Personal Cabin (6:00) -	Unlocks a Personal Cabin where one Alter can sleep. Privacy has a positive effect on the Alters' moods.
+    - __[III]__ Efficient Food (6:00) -	Raw food packages (x10) are produced 25% faster.
+      - __[III][*]__ Food Farm (6:00) - Unlocks food farms, which can be placed anywhere on an Organics area to automatically create 3 Raw Food per day.
+        - __[III][*]__ Food Farm Efficiency (6:00) - Increases the efficiency of Food Farms to 6 Raw Food per day.
+    - __[IV]__ - Base Expansion IV (14:00) - Expands the base, allowing more room for building modules. Additionally expands the Organics tank size to 800. Maximum expansion available.
 
 ### Mission
 - Crossing the Lava River (10:00)
 - Bridge Anchor (10:00)
+
+- Prosthetic Arm	Miner is cut off from drugs (Scientist's option)	4:00	Unlocks a prosthetic arm for the Miner.
+Serum	Miner is cut off from drugs (Technician's option)	10:00	Unlocks a serum that could lead to the regrowth of the Miner's arm.
+- Interal Analysis Tool	Come across your first anomaly	4:00	Look into ways to interact with the Interal.
+Filtering Jelly	The Miner and Scientist get into an argument	6:00	Unlocks additional protection from hypothetical microrapidium particles in drinking water.
+Private Research	Act 2: an optional request made by Jan Scientist	24:00	The Scientist's secret, groundbreaking research.
+Neutralizer Towers	Act 2	10:00	Unlocks towers that allow to counter the gravitational anomaly.
+Sheep Autopsy	Act 2	6:00	Performs an autopsy to determine the sheep's cause of death.
+QC Hacking	Act 2	10:00	A way to hack into the Quantum Computer. Enables the creation of a Tabula Rasa.
+Beacon Blockade	Act 3	10:00	Research why the beacon signal was blocked.
+Materializer Module	Act 3	10:00	Unlocks a powerful module that can be used to materialize a proximity plane.
+Ark Sarcophagus	Act 3	4:00	Unlocks a pseudo-Rapidium Ark in which Alters could travel hidden.
+Suit Mask Upgrade	Ark Sarcophagus
+Act 3	4:00	Unlocks a gas mask that can be integrated with the suit to shield the user from dangerous gases.
+Autopilot Device	Ark Sarcophagus
+Act 3	4:00	Unlocks a device that will allow taking control of the rescue ship
