@@ -68,15 +68,13 @@
 - Prosthetic Arm	Miner is cut off from drugs (Scientist's option)	4:00	Unlocks a prosthetic arm for the Miner.
 Serum	Miner is cut off from drugs (Technician's option)	10:00	Unlocks a serum that could lead to the regrowth of the Miner's arm.
 - Interal Analysis Tool	Come across your first anomaly	4:00	Look into ways to interact with the Interal.
-Filtering Jelly	The Miner and Scientist get into an argument	6:00	Unlocks additional protection from hypothetical microrapidium particles in drinking water.
-Private Research	Act 2: an optional request made by Jan Scientist	24:00	The Scientist's secret, groundbreaking research.
-Neutralizer Towers	Act 2	10:00	Unlocks towers that allow to counter the gravitational anomaly.
-Sheep Autopsy	Act 2	6:00	Performs an autopsy to determine the sheep's cause of death.
-QC Hacking	Act 2	10:00	A way to hack into the Quantum Computer. Enables the creation of a Tabula Rasa.
-Beacon Blockade	Act 3	10:00	Research why the beacon signal was blocked.
-Materializer Module	Act 3	10:00	Unlocks a powerful module that can be used to materialize a proximity plane.
-Ark Sarcophagus	Act 3	4:00	Unlocks a pseudo-Rapidium Ark in which Alters could travel hidden.
-Suit Mask Upgrade	Ark Sarcophagus
-Act 3	4:00	Unlocks a gas mask that can be integrated with the suit to shield the user from dangerous gases.
-Autopilot Device	Ark Sarcophagus
-Act 3	4:00	Unlocks a device that will allow taking control of the rescue ship
+- Filtering Jelly	The Miner and Scientist get into an argument	6:00	Unlocks additional protection from hypothetical microrapidium particles in drinking water.
+- Private Research	Act 2: an optional request made by Jan Scientist	24:00	The Scientist's secret, groundbreaking research.
+- Neutralizer Towers	Act 2	10:00	Unlocks towers that allow to counter the gravitational anomaly.
+- Sheep Autopsy	Act 2	6:00	Performs an autopsy to determine the sheep's cause of death.
+- QC Hacking	Act 2	10:00	A way to hack into the Quantum Computer. Enables the creation of a Tabula Rasa.
+- Beacon Blockade	Act 3	10:00	Research why the beacon signal was blocked.
+- Materializer Module	Act 3	10:00	Unlocks a powerful module that can be used to materialize a proximity plane.
+- Ark Sarcophagus (4:00) - Unlocks a pseudo-Rapidium Ark in which Alters could travel hidden. (ACT III)
+  - Suit Mask Upgrade (4:00) - Unlocks a gas mask that can be integrated with the suit to shield the user from dangerous gases.
+  - Autopilot Device (4:00) - Unlocks a device that will allow taking control of the rescue ship.
