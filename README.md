@@ -1,6 +1,6 @@
 ## The Alters
 
-- Resourses
-- Base Buildings
+- [Resources](resources.md)
+- [Base Buildings](buildings.md)
 - [Research](research.md)
-- Run
+- [Run](run.md)
