@@ -23,8 +23,23 @@
 
 ### Economy
 - Enriched Metals Efficiency I (6:00) - Mining and refining Enriched Metals is 15% faster.
+  - [II][*] Adv. Enriched Metals Outpost (6:00) - Unlocks an advanced Enriched Metals Mining Outpost that is 30% faster than a basic one.
+    - __[III]___ Enriched Metals Efficiency II (6:00) - Mining and refining Enriched Metals is 15% faster.
+      - __[III]__ Enriched Metals Efficiency III (6:00) - Mining and refining Enriched Metals is 15% faster.
+        - __[IV][*]__ Enriched Metals Efficiency IV (6:00) - Mining and refining Enriched Metals is 25% faster.
+    - __[III][*]__ Automatic Outpost (6:00) -	Unlocks Automatic Mining Outposts that don't require an operator. One workday of an Automatic Outpost equals 7 hours of human work on a basic outpost.
+      - __[IV][*]__ Automatic Outpost Efficiency (6:00) - Increases the efficiency of an Automatic Mining Outpost to the equivalent of 9 hours of human work on a basic outpost.
 - Non-Metals Efficiency I (6:00) - Mining Minerals, Rapidium, and Organics is 15% faster.
+  - [II][*] Adv. Non-Metals Outpost (6:00) - Unlocks an advanced Non-Metals Mining Outpost for mining Rapidium, Organics, and Minerals that is 40% faster than a basic one.
+    - [II] Non-Metals Efficiency II (6:00) - Mining Minerals, Rapidium, and Organics is 15% faster.
 - Metal Efficiency I (6:00) -	Mining Metals is 15% faster.
+  - __[II][*]__ Adv. Metals Outpost (6:00) - Unlocks an Advanced Metals Mining Outpost that is 30% faster than a basic one.
+  - __[III]__ Metals Efficiency III	(6:00) - Mining Metals is 15% faster.
+    - __[IV][*]__ Metals Efficiency IV (6:00) Mining Metals is 25% faster.
+- __[II]__ ALX-Organics Conversion (6:00) -	Unlocks the technology needed to convert ALX to Organics in the Refinery.
+  - __[III]__ ALX-Metals Conversion (6:00) - Unlocks the technology needed to convert ALX to Metals in the Refinery.
+  - __[III][*]__ ALX-Minerals Conversion (6:00) - Unlocks the technology needed to convert ALX to Minerals in the Refinery.
+  - __[IV][*]__ ALX Conversion Efficiency (6:00) -	Reduces the amount of ALX needed for conversion. (From 10 to 7)
 
 ### Base
 - Magnetic Storm Analysis	(6:00) - Analyze Magnetic Storms and research a way to predict them. (REQ first magnetic storm)
