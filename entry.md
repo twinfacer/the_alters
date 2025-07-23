@@ -229,10 +229,12 @@ Items:
 ```
 
 - Go toward __DEnriched__ but instead turn right near it, jump up to cliff and run near __SOrganics__ until you can see you base. Then build __Pylon__ as far form base but close to __SOrganics__ (??? then drill it down) as you can. After __SOrganics__ turn left then right than mine __SRapidium__. Return and clear _rock blockade_ further. Go and when __DRapidium__ deposit starts to appear turn left run further then drill __SMetal__ deposit.
-- ??? Return back and find __DRamidium__ deposit (??? and build __Miner Outpost__ on them)
+- ??? Return back and find __DRapidium__ deposit (??? and build __Miner Outpost__ on them)
 - ??? Return back and connect __Travel Pylon__ to your network. TP to base. (??? or grind some resources before night if has time) (??? turn on _radiation filter_ now?)
 - ??? Build __Greenhouse__
 - (??? talk to __Scientist__ ) Goto sleep.
 
 == Day 8
+
+== Day 16 (Magnetic Storm)
 
