@@ -1,0 +1,53 @@
+### Starting Base (152 T, 220/480V)
+- 6 x Elevator (12 = 6 x 2)
+- 4 x Small Storage (112 = 4 x 28)
+- 1 x Command Center (4 = 1 x 4)
+- 1 x Communication Room (4 = 1 x 4)
+- 1 x Captain Cabin (4 = 1 x 4)
+- 1 x Airlock (4 = 1 x 4)
+- 1 x Mashinery (4 = 1 x 4)
+- 1 x Quantum Computer (8 = 1 x 8)
+
+- 100 x Organics
+- 30 x Metal
+- 20 x Mush
+- 2 x Raw Food
+
+- 5 x __Radiation Filter__.
+- 1 x __Miner Outpost__.
+- 6 x __Pylon__.
+
+### Buildings (Repair Time - 3:00 ???)
+- Coridor (10 MT) 2T - 1x2
+- Elevator (10 MT) 2T - 1x2
+- Small Storage (30 MT) - 28T - 2x2 (+120 V)
+- Workshop (40 MT) 8T - 1x4
+  - Exploration
+    - Mining Outpost (30 MT - 2:00 ) 25V
+    - Pylon (x3) (30 MT - 1:18) 24V
+  - Consumables
+    - Repair Kit (10 MT - 1:00) 2V
+    - Radiation Filter (10 MT/40 OG - 2:00) 20V
+    - Drill Cartrige (20 MT - 1:00) 15V?
+    - Suit Battery (40 OG - 1:00) 0V?
+    - Qubit Chip (20 MT/20 MN/1 Broken Chip - 1:00) 10V
+  - Toolz
+    - Scanner (20 MT - 1:00) 0V PROLOGUE,QUEST
+    - Ventra Drill (50 MT/20 OG - 1:00) ACT1
+    - Climbing Hook (60 MT/120 OG - 1:00) ACT1
+- Kitchen (40 MT) 4T - 1x5
+  - Pierogi (2 RF - 1:00) JOURNEY1,QUEST
+  - Mush (5 OG - 0:30) 4V
+- Womb (40 MT) 4T - 1x5
+  - New Alter (20 RaP - 8:00)
+- Research Lab (40 MT) 8T - 1x4
+- Greenhouse (40 MT/ 20 RaP)
+- Refinery (40 MT)
+- Dormitory (40 MT)
+- Social Room (40 MT/30 MN)
+- Infirmary (20 MT/60 MN) 16T - 1x6
+- Recycler (30 MN)
+- Gym (70 MT/70 MN)
+- Medium Storage (60 MT/10 MN)
+- Rapidium Ark (30 MT/120 RP/100 OG)
+- Ark Sarcofagus (30 MT/40 RP) 13T - 2x4
