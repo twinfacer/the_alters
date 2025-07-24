@@ -27,16 +27,16 @@
     - Exploration
       - Mining Outpost (30 MT - 2:00 ) 25V
       - Pylon (x3) (30 MT - 1:18) 24V
-    - Consumables
-      - Repair Kit (10 MT - 1:00) 2V
-      - Radiation Filter (10 MT/40 OG - 2:00) 20V
+      - Suit Battery (40 OG - 1:00) 0V? [ACT1+]
+    - Base
+      - Repair Kit (10 MT - 1:00) 2V [JOURNEY1+]
+      - Radiation Filter (10 MT/40 OG - 2:00) 20V [ACT1+]
       - Drill Cartrige (20 MT - 1:00) 15V?
-      - Suit Battery (40 OG - 1:00) 0V?
       - Qubit Chip (20 MT/20 MN/1 Broken Chip - 1:00) 10V
-    - Toolz
-      - Scanner (20 MT - 1:00) 0V PROLOGUE,QUEST
-      - Ventra Drill (50 MT/20 OG - 1:00) ACT1
-      - Climbing Hook (60 MT/120 OG - 1:00) ACT1
+    - Gear
+      - Scanner (20 MT - 1:00) [PROLOGUE,QUEST]
+      - Ventra Drill (50 MT/20 OG - 1:00) [ACT1+]
+      - Climbing Hook (60 MT/120 OG - 1:00) [ACT1+]
   - Kitchen (40 MT) 4T - 1x5
     - Pierogi (2 RF - 1:00) JOURNEY1,QUEST
     - Mush (5 OG - 0:30) 4V
