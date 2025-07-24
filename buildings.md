@@ -18,36 +18,43 @@
 - 6 x __Pylon__.
 
 ### Buildings (Repair Time - 3:00 ???)
-- Coridor (10 MT) 2T - 1x2
-- Elevator (10 MT) 2T - 1x2
-- Small Storage (30 MT) - 28T - 2x2 (+120 V)
-- Workshop (40 MT) 8T - 1x4
-  - Exploration
-    - Mining Outpost (30 MT - 2:00 ) 25V
-    - Pylon (x3) (30 MT - 1:18) 24V
-  - Consumables
-    - Repair Kit (10 MT - 1:00) 2V
-    - Radiation Filter (10 MT/40 OG - 2:00) 20V
-    - Drill Cartrige (20 MT - 1:00) 15V?
-    - Suit Battery (40 OG - 1:00) 0V?
-    - Qubit Chip (20 MT/20 MN/1 Broken Chip - 1:00) 10V
-  - Toolz
-    - Scanner (20 MT - 1:00) 0V PROLOGUE,QUEST
-    - Ventra Drill (50 MT/20 OG - 1:00) ACT1
-    - Climbing Hook (60 MT/120 OG - 1:00) ACT1
-- Kitchen (40 MT) 4T - 1x5
-  - Pierogi (2 RF - 1:00) JOURNEY1,QUEST
-  - Mush (5 OG - 0:30) 4V
-- Womb (40 MT) 4T - 1x5
-  - New Alter (20 RaP - 8:00)
-- Research Lab (40 MT) 8T - 1x4
-- Greenhouse (40 MT/ 20 RaP)
-- Refinery (40 MT)
-- Dormitory (40 MT)
-- Social Room (40 MT/30 MN)
-- Infirmary (20 MT/60 MN) 16T - 1x6
-- Recycler (30 MN)
-- Gym (70 MT/70 MN)
-- Medium Storage (60 MT/10 MN)
-- Rapidium Ark (30 MT/120 RP/100 OG)
-- Ark Sarcofagus (30 MT/40 RP) 13T - 2x4
+- Utility
+  - Coridor (10 MT) 2T - 1x2
+  - Elevator (10 MT) 2T - 1x2
+  - Radiation Repulsor (30 MT/40 MN/30 RP) 16T - 3x2
+- Work
+  - Workshop (40 MT) 8T - 1x4
+    - Exploration
+      - Mining Outpost (30 MT - 2:00 ) 25V
+      - Pylon (x3) (30 MT - 1:18) 24V
+    - Consumables
+      - Repair Kit (10 MT - 1:00) 2V
+      - Radiation Filter (10 MT/40 OG - 2:00) 20V
+      - Drill Cartrige (20 MT - 1:00) 15V?
+      - Suit Battery (40 OG - 1:00) 0V?
+      - Qubit Chip (20 MT/20 MN/1 Broken Chip - 1:00) 10V
+    - Toolz
+      - Scanner (20 MT - 1:00) 0V PROLOGUE,QUEST
+      - Ventra Drill (50 MT/20 OG - 1:00) ACT1
+      - Climbing Hook (60 MT/120 OG - 1:00) ACT1
+  - Kitchen (40 MT) 4T - 1x5
+    - Pierogi (2 RF - 1:00) JOURNEY1,QUEST
+    - Mush (5 OG - 0:30) 4V
+    - Cooked Meal (1 RF - 0:20) 0.5V (???)
+  - Womb (40 MT) 4T - 1x5
+    - New Alter (20 RaP - 8:00)
+  - Research Lab (40 MT) 8T - 1x4
+  - Greenhouse (40 MT/ 20 RaP) 16T - 1x8
+  - Refinery (40 MT) 8T - 1x4
+- Wellbeing
+  - Dormitory (40 MT) 40T - 1x6
+  - Social Room (40 MT/30 MN) 14T - 1x6
+  - Infirmary (20 MT/60 MN) 16T - 1x6
+  - Recycler (30 MN) 2T - 1x2
+  - Gym (70 MT/70 MN)
+- Storage
+  - Small Storage (30 MT) 28T - 2x2 (+120 V)
+  - Medium Storage (60 MT/10 MN) 65T - 1x8 (+300 V) REQ_RESEARCH
+  - Large Storage (150 MT/40 MN) 140T - 2x8 (+700 V) REQ_RESEARCH
+  - Rapidium Ark (30 MT/120 RP/100 OG) 32T - 2x4 QUEST
+  - Ark Sarcofagus (30 MT/40 RP) 13T - 2x4 QUEST
