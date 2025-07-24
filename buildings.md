@@ -46,6 +46,7 @@
   - Research Lab (40 MT) 8T - 1x4
   - Greenhouse (40 MT/ 20 RaP) 16T - 1x8
   - Refinery (40 MT) 8T - 1x4
+    - Metals & Organics (8 EM -> 8 MT/8 OG - 0:30) 
 - Wellbeing
   - Dormitory (40 MT) 40T - 1x6
   - Social Room (40 MT/30 MN) 14T - 1x6
