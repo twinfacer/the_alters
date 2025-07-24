@@ -62,19 +62,18 @@
     - __[IV]__ - Base Expansion IV (14:00) - Expands the base, allowing more room for building modules. Additionally expands the Organics tank size to 800. Maximum expansion available.
 
 ### Mission
-- Crossing the Lava River (10:00)
-- Bridge Anchor (10:00)
-
-- Prosthetic Arm	Miner is cut off from drugs (Scientist's option)	4:00	Unlocks a prosthetic arm for the Miner.
-Serum	Miner is cut off from drugs (Technician's option)	10:00	Unlocks a serum that could lead to the regrowth of the Miner's arm.
-- Interal Analysis Tool	Come across your first anomaly	4:00	Look into ways to interact with the Interal.
-- Filtering Jelly	The Miner and Scientist get into an argument	6:00	Unlocks additional protection from hypothetical microrapidium particles in drinking water.
-- Private Research	Act 2: an optional request made by Jan Scientist	24:00	The Scientist's secret, groundbreaking research.
-- Neutralizer Towers	Act 2	10:00	Unlocks towers that allow to counter the gravitational anomaly.
-- Sheep Autopsy	Act 2	6:00	Performs an autopsy to determine the sheep's cause of death.
-- QC Hacking	Act 2	10:00	A way to hack into the Quantum Computer. Enables the creation of a Tabula Rasa.
-- Beacon Blockade	Act 3	10:00	Research why the beacon signal was blocked.
-- Materializer Module	Act 3	10:00	Unlocks a powerful module that can be used to materialize a proximity plane.
+- Crossing the Lava River (10:00) - Look into possible ways of getting the base to the other side of the lava river.
+- Bridge Anchor (10:00) - Reinforced bridge anchors suitable for extreme environments.
+- Prosthetic Arm (4:00) - Unlocks a prosthetic arm for the Miner. (Miner is cut off from drugs (Scientist's option))
+- Serum	(10:00) - Unlocks a serum that could lead to the regrowth of the Miner's arm. (Miner is cut off from drugs (Technician's option))
+- Interal Analysis Tool	(4:00) - Look into ways to interact with the Interal. (Come across your first anomaly	)
+- Filtering Jelly	(6:00) - Unlocks additional protection from hypothetical microrapidium particles in drinking water. (The Miner and Scientist get into an argument	)
+- Private Research (24:00) - The Scientist's secret, groundbreaking research. (an optional request made by Jan Scientist)
+- Neutralizer Towers (10:00) - Unlocks towers that allow to counter the gravitational anomaly.
+- Sheep Autopsy (6:00) - Performs an autopsy to determine the sheep's cause of death.
+- QC Hacking (10:00)	A way to hack into the Quantum Computer. Enables the creation of a Tabula Rasa. (ACT II)
+- Beacon Blockade	(10:00) - Research why the beacon signal was blocked. (ACT III)
+- Materializer Module (10:00) - Unlocks a powerful module that can be used to materialize a proximity plane. (ACT III)
 - Ark Sarcophagus (4:00) - Unlocks a pseudo-Rapidium Ark in which Alters could travel hidden. (ACT III)
   - Suit Mask Upgrade (4:00) - Unlocks a gas mask that can be integrated with the suit to shield the user from dangerous gases.
   - Autopilot Device (4:00) - Unlocks a device that will allow taking control of the rescue ship.
