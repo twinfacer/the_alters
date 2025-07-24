@@ -11,11 +11,11 @@
 - Goto and collect items at 2 sites at bottom of a map. Then goto base. If you have spare time - goto __DOrganics__ and mine them until days come to end.
 - Answer phonecall from __Lucas__. Build __Womb__ at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
 
-== Day 03 (40+ MT , 100+ OG, 50 RaP, 18 MU)
+== Day 03 (40+ MT, 100+ OG, 50 RP, 18 MU)
 - Goto another 2 __SMetal__ deport and grind them. Then returns to base entrance then TP to __DOrganics__ and grind them until night. Then TP to Base.
 - Build a __Kitchen__ (up to __Airlock__), craft __Mush__ till you are near _exhausted_. Then goto sleep.
 
-== Day 04 (160+ MT , ~200 OG, 50 RaP, ~20 MU)
+== Day 04 (120+ MT , ~200 OG, 50 RaP, ~20 MU)
 - Continue craft __Mush__ til quest is done (23 __Mush__). After that go __DOrganics__ and grind them until 300 OG reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter.
 
 ```
@@ -98,8 +98,8 @@
 
 === Act I (6-???) ===
 
-== Day 06 (150+ MT, ??? OG 30 RaP, ?? MU)
-- Speak with __Mechanic__.
+== Day 06 (110+ MT, ??? OG, 30 RP, 19 MU)
+- Speak with __Technitian__.
 
 ```
 --- DISSCUS
@@ -112,7 +112,7 @@
 - Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
 - Goto __QC__ and create __Scientist__ alter. Then goto sleep.
 
-== Day 7
+== Day 7 ( 16 MU)
 - ??? Queue __Miner Outpost__ (??? and __Pylon Package__ if need for pylons) at workshop. Assign ??? to it (If has spare metal and plan to build a __DRapidium__ outpost today)
 - Goto __Womb__ and wake up __Scientist__.  
 
