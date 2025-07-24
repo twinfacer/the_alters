@@ -8,7 +8,7 @@
 - Polymers        1V
 - Mush            4V
 - Raw Food        5V
-- Meals           5V?
+- Meals           0.5V ???
 
 ### Resources Nodes
 - Shallow Metal Deposit - 60 MT  (1:30)
