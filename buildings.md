@@ -37,6 +37,7 @@
       - Scanner (20 MT - 1:00) [PROLOGUE,QUEST]
       - Ventra Drill (50 MT/20 OG - 1:00) [ACT1+]
       - Climbing Hook (60 MT/120 OG - 1:00) [ACT1+]
+      - Hook Upgrade (80 MT/60 MN - 1:00) [REQ_RESEARCH]
     - Other
       - Bridge Anchor (20 MT/20 PM - 3:00) 40V [QUEST,ACT1]
       - Gravity Sensor (50 MT/20 MN - 2:00) 
