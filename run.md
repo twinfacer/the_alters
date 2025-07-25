@@ -52,16 +52,32 @@
     --- OIL&WATER
       -> [TOGETHER] - [FRUST] + [-JOY]
       -> [I CREATE YOU] - [REBEL] + [-JOY]
-  -> (D'NT TALK TO ME THIS WAY) - [-JOY] + [REBEL]
+  -> (DON'T TALK TO ME THIS WAY) - [REBEL] + [-JOY]
 ```
 
 - Turn on _low failure risk_ in __Mashinery__. Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
 - Speak to __Technician__ at __Kitchen__.
 
 ```
-
-
-
+--- THINKING
+  -> (DIFF) - [FRUST] + [-JOY]
+  -> (COMMON) - [FRUST] + [REBEL]
+    --- WHAT
+      -> (PARETNS) - [FRUST] + [-JOY]
+      -> (GROW_UP) - [JOY] + [-GLOOM] -> [REBEL] + [-JOY] = [-GLOOM] + [REBEL]
+--- DAD vs COLLEDGE
+  -> (VS_DAD) - [-FRUST] + [???]
+    --- BREAKING_POINT
+      -> (I'M COWARD)  - [LESS_FRUST] + [LESS_ANEX]
+      -> (D'NT CHANGE) - [BURDEN] + [-JOY]
+  -> (COLLEDGE) - [FRUST] + [-JOY]
+  --- MOM STILL AROUND? - [-BURDEN] + [MOTIV] -> [BURD] + [-JOY]
+  --- PIROGI - [JOY] + [-GLOOM]
+  --- PIG - [JOY] + [-GLOOM]
+  --- MAKE PIROGI - [-REBEL] + [MOTIV]
+    -> (COOLANT) - [JOY] + [-GLOOM]
+    -> (BEER)    - [JOY] + [-GLOOM]
+    -> (GREASE)  - [JOY] + [-GLOOM]
 ```
 
 - Make pirogi at __Kitchen__. Eat pirogi with __Technotian__.
@@ -70,28 +86,34 @@
 ```
 --- SO
   -> (COOL) - [FRUST] + [GLOOM]
-  -> (FEEL) - [JOY], [-GLOOM], [MOTIV]
+  -> (FEEL) - [JOY], [-GLOOM]
 --- PIROGY
   -> (BAD)  - [-REBEL] + [MOTIV]
-    --- EMJOY
+    --- ENJOY
       -> [SO_AS_I] - [JOY] + [-GLOOM]
-      -> [FEEL]
-  -> (HARD) -
+      -> [FEEL]    - [-GLOOM] + [-INSEC]
+  -> (HARD) - [-GLOOM] + [-INSEC]
 --- PLAN
-  -> (CORP)    - 
+  -> (CORP)    - [ANEX] + [-JOY]
+      -> (HE_TOLD_ME) - [FRUST] + [GLOOM]
+        --- ABOUT_ME
+          -> (IDK) - [GLOOM] + [REBEL]
+          -> (FINE)
+      -> (NESSESARY)  - [ANNEX] + [???]
+        -- WHAT_WITH_ME
+          -> (IDK)  - 
+          -> (FINE) - [ANNEX] + [-JOY]
   -> (OURSELF) - [MOTIV] + [-GLOOM]
     -- ABOUT_ME
       -> (THEY_TOLD_ME) - [FRUST] + [-JOY]
         --- WHAT_TO_DO
           -> (I_KNOW)    - [-FRUST] + [-ANEX]
-              -- MOAR_VERSIONS
-                -> (ME)
-                -> (US) [JOY] + [-GLOOM]
-                  --- COOKING_SKILLS
-                    -> (TRY_AVOID) -
-                    -> (CANT_WAIT) - [-REBEL] + [-FRUST]
-          -> (IMPROVISE) - 
-      -> (LEAVE TO ME)  -
+-- MOAR_VERSIONS
+  -> (ME) [REBEl] + [-JOY]
+  -> (US) [JOY] + [-GLOOM]
+--- COOKING_SKILLS
+  -> (TRY_AVOID) - [-REBEL] + [-FRUST]
+  -> (CANT_WAIT) - [-REBEL] + [-FRUST]
 ```
   
 - Goto answer __Lena__ call.
