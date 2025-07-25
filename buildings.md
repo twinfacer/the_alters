@@ -37,6 +37,9 @@
       - Scanner (20 MT - 1:00) [PROLOGUE,QUEST]
       - Ventra Drill (50 MT/20 OG - 1:00) [ACT1+]
       - Climbing Hook (60 MT/120 OG - 1:00) [ACT1+]
+    - Other
+      - Bridge Anchor (20 MT/20 PM - 3:00) 40V [QUEST,ACT1]
+      - Gravity Sensor (50 MT/20 MN - 2:00) 
   - Kitchen (40 MT) 4T - 1x5
     - Pierogi (2 RF - 1:00) JOURNEY1,QUEST
     - Mush (5 OG - 0:30) 4V
