@@ -66,18 +66,18 @@
       -> (PARETNS) - [FRUST] + [-JOY]
       -> (GROW_UP) - [JOY] + [-GLOOM] -> [REBEL] + [-JOY] = [-GLOOM] + [REBEL]
 --- DAD vs COLLEDGE
-  -> (VS_DAD) - [-FRUST] + [???]
-    --- BREAKING_POINT
-      -> (I'M COWARD)  - [LESS_FRUST] + [LESS_ANEX]
-      -> (D'NT CHANGE) - [BURDEN] + [-JOY]
+  -> (VS_DAD) - [-FRUST] + [MOTIV]
   -> (COLLEDGE) - [FRUST] + [-JOY]
-  --- MOM STILL AROUND? - [-BURDEN] + [MOTIV] -> [BURD] + [-JOY]
-  --- PIROGI - [JOY] + [-GLOOM]
-  --- PIG - [JOY] + [-GLOOM]
-  --- MAKE PIROGI - [-REBEL] + [MOTIV]
-    -> (COOLANT) - [JOY] + [-GLOOM]
-    -> (BEER)    - [JOY] + [-GLOOM]
-    -> (GREASE)  - [JOY] + [-GLOOM]
+--- BREAKING_POINT
+  -> (I'M COWARD)  - [-FRUST] + [-ANEX]
+  -> (D'NT CHANGE) - [BURDEN] + [-JOY]
+--- MOM STILL AROUND? - [-BURDEN] + [MOTIV] -> [BURD] + [-JOY]
+--- PIROGI - [JOY] + [-GLOOM]
+--- PIG - [JOY] + [-GLOOM]
+--- MAKE PIROGI - [-REBEL] + [MOTIV]
+  -> (COOLANT) - [JOY] + [-GLOOM]
+  -> (BEER)    - [JOY] + [-GLOOM]
+  -> (GREASE)  - [JOY] + [-GLOOM]
 ```
 
 - Make pirogi at __Kitchen__. Eat pirogi with __Technotian__.
