@@ -7,16 +7,16 @@
 == Day 02 (30 MT, 100 OG, 19 MU, 2 RF, 4 FT)
 - Go outside, run left - gather 2 __SMetal__ (+120 MT/-2:00 = 150 MT) on the way to __DOrganics__.
 - Return to base - build __Workshop__ (-40 MT = 110 MT) + rearange base (TODO - layout). Craft __Scanner__ (-20 MT = 90MT). Goto towards __DOrganics__ but turn left.
-- Gather __SRapidium__ (-3:00/+60 RP) on the way then goto and find __DOrganics__. Build __Miner Outpost__ there. Then connect __Miner Outpost__ via 5 __Pylons__ through cliff. (~17:00)
-- Goto and collect items at 2 sites at bottom of a map. Then goto base. (19:00) If you have spare time - goto __DOrganics__ and mine them until you _exhausted_.
-- Answer phonecall from __Lucas__. Build __Womb__ (-40 MT = 50 MT) at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
+- Gather __SRapidium__ (-3:00/+60 RP) on the way then goto and find __DOrganics__ (gather 3 small OG packs along way (+24 OG = 124 OG)). Build __Miner Outpost__ there. Then connect __Miner Outpost__ via 5 __Pylons__ through cliff. (~17:30)
+- Goto and collect items at 2 sites at bottom of a map (right one has +3 MT node so as left one). Then goto base. (~20:00).
+- Answer phonecall from __Lucas__. Build __Womb__ (-40 MT = 56 MT) at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
 
-== Day 03 (40+ MT, 100+ OG, 50 RP, 18 MU, 2 RF, 3 FT)
-- Goto another 2 __SMetal__ (+120 MT = 160 MT) deport and grind them. Then returns to base entrance then TP to __DOrganics__ and grind them until 19:00 then TP to Base.
-- Build a __Kitchen__ (-40 MT = 120 MT) (up to __Airlock__), craft __Mush__ till quest is done (23 __Mush__). Then goto sleep.
+== Day 03 (56 MT, 124 OG, 50 RP, 18 MU, 2 RF, 3 FT)
+- Goto another 2 __SMetal__ (+120 MT = 176 MT) deport and grind them (+30 MT from small ones along way = 206 MT). Then returns to base entrance then TP to __DOrganics__ and grind them until 18:00 then TP to Base.
+- Build a __Kitchen__ (-40 MT = 120 MT) (next to __Airlock__), craft __Mush__ till quest is done (23 __Mush__). Then goto sleep.
 
-== Day 04 (120+ MT , ~200 OG, 50 RP, 23 MU, 2 RF, 2 FT)
-- TP to __DOrganics__ and grind them until 300 OG reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter (-20 RP).
+== Day 04 (165 MT , ~200 OG, 50 RP, 23 MU, 2 RF, 2 FT)
+- TP to __DOrganics__ and grind them until 300 OG reached. (~ 17:00) Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter (-20 RP).
 
 ```
   --- HELLO - [ANEX] + [INSEC]
@@ -26,8 +26,8 @@
   --- MEDS - [INSEC] -> [ANEX] + [-JOY]
   --- NAME
     -> (HIM_FIRST) - [INSEC] + [-REBEL]
+      --- WORKS - [ANEX] + [-JOY] 
     -> (ME)        - [JOY] + [-GLOOM]
-  --- WORKS (=? HIM_FIRST)? 
   --- IS_EXPERIMENT
     -> (YES) - [REBEL] + [-JOY]
     -> (NO)  - [ANEX] + [-JOY]
@@ -37,7 +37,7 @@
   --- EXISTENTIAL
     -> [SOMEWHERE] - [FRUST] + [GLOOM]
     -> [TRUTH]     - [-REBEL] + [-FRUST]
-  --- END - [REBEL] + [FRUST] -> [REBEL] + [FRUST] -> [REBEL]
+  --- END - [REBEL] -> [FRUST] -> [REBEL] + [FRUST] -> [REBEL] (IDK???)
 ```
 
 === Journey 1 (5) ===
@@ -59,62 +59,74 @@
 - Speak to __Technician__ at __Kitchen__.
 
 ```
---- THINKING
-  -> (DIFF) - [FRUST] + [-Joy]
-  -> (COMMON) - [FRUST] + [REBEL]
-    --- WHAT
-      -> (PARETNS) - [FRUST] + [-JOY]
-        --- NOT_ENOUGH
-          -> (VS_DAD) -   [FRUST] + [MOTIV]
-            --- BREAKING_POINT
-              -> (I'M COWARD)  - [LESS_FRUST] + [LESS_ANEX]
-                --- MOM STILL AROUND? - [LESS_] + [LESS_]
-                --- [BURD] + [LESS_JOY]
-                --- PIROGI - [LESS_GLOOM]
-                --- PIG - [JOY] + [LESS_GLOOM]
-                --- MAKE PIROGI - [LESS_REBEL] + [MOTIV]
-                  -> (COOLANT) - [JOY] + [LESS_GLOOM]
-                  -> (BEER)
-                  -> (GREASE)
-              -> (D'NT CHANGE) -
-          -> (COLLEDGE) - 
-      -> (GROW_UP)
+
+
 
 ```
 
-- Make pirogi at __Kitchen__. Eat pirogi with your alt
+- Make pirogi at __Kitchen__. Eat pirogi with __Technotian__.
 
 === After Pirogi dialog with Mechanic 
 ```
 --- SO
-  -> (COOL) - 
-  -> (FEEL) - [JOY], [LESS_GLOOM], [MOTIVATION]
+  -> (COOL) - [FRUST] + [GLOOM]
+  -> (FEEL) - [JOY], [-GLOOM], [MOTIV]
 --- PIROGY
-  -> (BAD)
-  -> (HARD)
+  -> (BAD)  - [-REBEL] + [MOTIV]
+    --- EMJOY
+      -> [SO_AS_I] - [JOY] + [-GLOOM]
+      -> [FEEL]
+  -> (HARD) -
+--- PLAN
+  -> (CORP)    - 
+  -> (OURSELF) - [MOTIV] + [-GLOOM]
+    -- ABOUT_ME
+      -> (THEY_TOLD_ME) - [FRUST] + [-JOY]
+        --- WHAT_TO_DO
+          -> (I_KNOW)    - [-FRUST] + [-ANEX]
+              -- MOAR_VERSIONS
+                -> (ME)
+                -> (US) [JOY] + [-GLOOM]
+                  --- COOKING_SKILLS
+                    -> (TRY_AVOID) -
+                    -> (CANT_WAIT) - [-REBEL] + [-FRUST]
+          -> (IMPROVISE) - 
+      -> (LEAVE TO ME)  -
 ```
   
 - Goto answer __Lena__ call.
 
 === Act I (6-???) ===
 
-== Day 06 (110+ MT, {300 - (TRAVEL_COST)} OG, 30 RP, 19 MU, 0 FT)
+== Day 06 (155 MT, 232 OG, 30 RP, 23 MU, 1 FT)
+- Goto __QC__ and queue __Refiner__ alter. (-20 RP = 10 RP)
+- Queue neccesary stuff in __Workshop__ (__RAD Filter__, __Grappling Hook__, __Ventra Drill__,  __Miner Outpost__, __Pylon Package__, __Repair Kit__ = -190 MT/-180 OG/~ 8:18) and assign __Technitian__ to it.
 - Speak with __Technitian__.
 
 ```
 
---- DISSCUS
+--- DISSCUS [-INSEC] + [JOY]
+  -> (THANKS)   - [MOTIV] + [-INSEC]
+  -> (EXPECTED) - [FRUST] + [GLOOM]
+  -> (BUSY)     - [FRUST] + [-JOY]
+--- UPGRADES
+  -> (SWEET) - NaN
+  -> (COZY)  - NaN
 
 ```
-- Goto __QC__ and create __Refiner__ alter. (-20 RP = 10 RP)
-- Queue neccesary stuff in __Workshop__ (__Grappling Hook__, __Ventra Drill__, __RAD Filter__, __Miner Outpost__, __Pylon Package__ = -180 MT/-180 OG/~ 7:18) and assign __Technitian__ to it.
+- Give him __Multitool__
+```
+--- MULTITOOL - [-REBEL] + [-FRUST]
+
+```   
+
 - Go outside. Goto up left and collect 2 __SMetal__ (-3:00/+120 MT = 50 MT) deposits then return close to base. (~11:00)
 - Goto bottom-left toward __DEnriched__ (build __Pylons__ along way). Find deposit and build __Miner Outpost__ there. (~12:30) Go right in the middle to collect  __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__ then turn back. (~13:30)
 - Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down (~15:30) then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
 - Goto __QC__ and create __Scientist (REQ 10 RP)__ alter. Then goto sleep.
 - Build neccasary base modules - __Research Lab__. Assign __Scientist__ to it. Queue research - __Enriched Metal Efficiency__ and ____.
 
-== Day 7 ( (16-15) MU)
+== Day 7 (  52 OG, (16-15) MU)
 - ??? Queue __Miner Outpost__ (??? and __Pylon Package__ if need for pylons) at workshop. Assign ??? to it (If has spare metal and plan to build a __DRapidium__ outpost today)
 - Goto __Womb__ and wake up __Scientist__.  
 
