@@ -52,7 +52,7 @@
     --- OIL&WATER
       -> [TOGETHER] - [FRUST] + [-JOY]
       -> [I CREATE YOU] - [REBEL] + [-JOY]
-  -> (D'NT TALK TO ME THIS WAY) - [-JOY] + [REBEL] -> DONE
+  -> (D'NT TALK TO ME THIS WAY) - [-JOY] + [REBEL]
 ```
 
 - Turn on _low failure risk_ in __Mashinery__. Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
@@ -104,7 +104,6 @@
 - Speak with __Technitian__.
 
 ```
-
 --- DISSCUS [-INSEC] + [JOY]
   -> (THANKS)   - [MOTIV] + [-INSEC]
   -> (EXPECTED) - [FRUST] + [GLOOM]
@@ -112,14 +111,13 @@
 --- UPGRADES
   -> (SWEET) - NaN
   -> (COZY)  - NaN
-
 ```
-- Give him __Multitool__
+- Give him __Multitool__.
 ```
 --- MULTITOOL - [-REBEL] + [-FRUST]
 
-```   
-
+```
+<<< BRANCH >>>
 - Go outside. Goto up left and collect 2 __SMetal__ (-3:00/+120 MT = 50 MT) deposits then return close to base. (~11:00)
 - Goto bottom-left toward __DEnriched__ (build __Pylons__ along way). Find deposit and build __Miner Outpost__ there. (~12:30) Go right in the middle to collect  __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__ then turn back. (~13:30)
 - Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down (~15:30) then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
