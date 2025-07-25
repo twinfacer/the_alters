@@ -1,22 +1,22 @@
 ### Run
 === Prologue (01-04) === 
 
-== Day 01
-- Run to Base, Contact Earth, (??? and turn on radiation filters _auto use_) then goto sleep.
+== Day 01 (30 MT, 100 OG, 20 MU, 2 RF, 5 FT)
+- Run to Base, Contact Earth, goto Mashinery and turn on _auto RAD-Filter reuse_ then goto sleep.
 
-== Day 02 (30 MT, 100 OG, 19 MU)
-- Go outside - gather 2 __SMetal__ on the way to __DOrganics__.
-- Return to base - build __Workshop__ and __Elevator__ to lowest lvl then move __QC__ there.  Craft __Scanner__. Goto towards __DOrganics__ but left.
-- Gather __SRapidium__ on the way then goto and find __DOrganics__. Build __Miner Outpost__ there. Then connect __Miner Outpost__ via __Pylons__ through cliff.
-- Goto and collect items at 2 sites at bottom of a map. Then goto base. If you have spare time - goto __DOrganics__ and mine them until days come to end.
-- Answer phonecall from __Lucas__. Build __Womb__ at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
+== Day 02 (30 MT, 100 OG, 19 MU, 2 RF, 4 FT)
+- Go outside, run left - gather 2 __SMetal__ (+120 MT/-2:00 = 150 MT) on the way to __DOrganics__.
+- Return to base - build __Workshop__ (-40 MT = 110 MT) + rearange base (TODO - layout). Craft __Scanner__ (-20 MT = 90MT). Goto towards __DOrganics__ but turn left.
+- Gather __SRapidium__ (-3:00/+60 RP) on the way then goto and find __DOrganics__. Build __Miner Outpost__ there. Then connect __Miner Outpost__ via 5 __Pylons__ through cliff. (~17:00)
+- Goto and collect items at 2 sites at bottom of a map. Then goto base. (19:00) If you have spare time - goto __DOrganics__ and mine them until you _exhausted_.
+- Answer phonecall from __Lucas__. Build __Womb__ (-40 MT = 50 MT) at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
 
-== Day 03 (40+ MT, 100+ OG, 50 RP, 18 MU)
-- Goto another 2 __SMetal__ deport and grind them. Then returns to base entrance then TP to __DOrganics__ and grind them until night. Then TP to Base.
-- Build a __Kitchen__ (up to __Airlock__), craft __Mush__ till you are near _exhausted_. Then goto sleep.
+== Day 03 (40+ MT, 100+ OG, 50 RP, 18 MU, 2 RF, 3 FT)
+- Goto another 2 __SMetal__ (+120 MT = 160 MT) deport and grind them. Then returns to base entrance then TP to __DOrganics__ and grind them until 19:00 then TP to Base.
+- Build a __Kitchen__ (-40 MT = 120 MT) (up to __Airlock__), craft __Mush__ till quest is done (23 __Mush__). Then goto sleep.
 
-== Day 04 (120+ MT , ~200 OG, 50 RaP, ~20 MU)
-- Continue craft __Mush__ til quest is done (23 __Mush__). After that go __DOrganics__ and grind them until 300 OG reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter.
+== Day 04 (120+ MT , ~200 OG, 50 RP, 23 MU, 2 RF, 2 FT)
+- TP to __DOrganics__ and grind them until 300 OG reached. Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter (-20 RP).
 
 ```
   --- HELLO - [ANEX] + [INSEC]
@@ -98,21 +98,23 @@
 
 === Act I (6-???) ===
 
-== Day 06 (110+ MT, ??? OG, 30 RP, 19 MU)
+== Day 06 (110+ MT, {300 - (TRAVEL_COST)} OG, 30 RP, 19 MU, 0 FT)
 - Speak with __Technitian__.
 
 ```
+
 --- DISSCUS
 
 ```
-- Build neccasary base modules - __Research Lab__.
-- Queue neccesary stuff in __Workshop__ (__Grappling Hook__, __Miner Outpost__, __Pylon Package__  and __Ventra Drill__) and assign __Technitian__ to it.
-- Go outside. Goto up left and collect 2 __SMetal__ deposit then return close to base.
-- Goto bottom-left through __DEnriched__ (turn right in the middle to collect  __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__) find __DMetal__. Build __Miner Outpost__. Connect it w Base using 3 __Pylons__ throug cliff. (??? assign __Technitian__ to work here, he must be done with __Workshop__ tasks by now)
-- Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
-- Goto __QC__ and create __Scientist__ alter. Then goto sleep.
+- Goto __QC__ and create __Refiner__ alter. (-20 RP = 10 RP)
+- Queue neccesary stuff in __Workshop__ (__Grappling Hook__, __Ventra Drill__, __RAD Filter__, __Miner Outpost__, __Pylon Package__ = -180 MT/-180 OG/~ 7:18) and assign __Technitian__ to it.
+- Go outside. Goto up left and collect 2 __SMetal__ (-3:00/+120 MT = 50 MT) deposits then return close to base. (~11:00)
+- Goto bottom-left toward __DEnriched__ (build __Pylons__ along way). Find deposit and build __Miner Outpost__ there. (~12:30) Go right in the middle to collect  __Class Photo__, __Rubber Duck__ and __Secret Alien Movie__ then turn back. (~13:30)
+- Build a __Pylon__ near cliff with __SOrganics__ near it. Drill it down (~15:30) then goto back to base entrance but run further do discover lava river. Turn right and find __SOrganics__ first (grind it down) then __DOrganics__ deposit after. Place __Miner Outpost__ on it and connect it to base via 1 __Pylon__ (move close to last build __Pylon__ to do it). Ran back to __Miner Outpost__ and TP back to base.
+- Goto __QC__ and create __Scientist (REQ 10 RP)__ alter. Then goto sleep.
+- Build neccasary base modules - __Research Lab__. Assign __Scientist__ to it. Queue research - __Enriched Metal Efficiency__ and ____.
 
-== Day 7 ( 16 MU)
+== Day 7 ( (16-15) MU)
 - ??? Queue __Miner Outpost__ (??? and __Pylon Package__ if need for pylons) at workshop. Assign ??? to it (If has spare metal and plan to build a __DRapidium__ outpost today)
 - Goto __Womb__ and wake up __Scientist__.  
 
@@ -136,17 +138,24 @@
 
 == Day 8
 
+== Day 10
+Must have 3 alters (+1 queued up).
+__DEnriched__, __DOrganics__, __DRapidium__ and __DMineral__ deposit should be hooked up.
+
 == Day 16 (Magnetic Storm)
 
 === Act 2 (Day 20ish) ===
 
-== Day 20 ==
-- __DEnriched__ (+ __Qubit Chip__), __DOrganics__, __DMinerals__
+== Day 20(23) ==
+- Queue __Qubit Chip__ in __Workshop__ then go outside. Goto see great anomaly on left then turn around and goto __DEnriched__ (making __Pylon__s along way) and setup mining outpost (grab __Qubit Chip__ from chest along way) then goto and hook up __DOrganics__ and __DMinerals__ then return to base.
+- Talk with __Scientist__ about anomaly then queue __Gravity Sensor__ to __Workshop__ order.
+- Goto __QC__ and install chip (??? queue new alter)
 
 == Day 21 ==
 - Climb and setup __Gravity Scanner__. On the way up turn to cave to get __Movie__ and __Item__.
 
-== Day 22 (Sheep dies) ==
+== Day 22 (Sheep dies on 3 day of Act II) ==
+- Goto __Kitchen__ and talk to you alters about sheep. The queue __Sheep Autopsy__ research.
 
 == Day 31 (Magnetic Storm)
 
