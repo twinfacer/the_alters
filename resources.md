@@ -14,12 +14,12 @@
 - Shallow Metal Deposit - 60 MT  (1:30)
 - Shallow Rapidium Deposit - 60 RP (3:00)
 - Shallow Organics Deposit - 60 OG (1:30)
-- Shallow Minerals Deposit - ()
+- Shallow Minerals Deposit - 30 MN (3:00)
 - Deep Organics Deposit - (14 OG x 1:00)
 - Deep Metal Deposit - (8 MT x 1:00)
 - Deep Enriched Metal Deposit - (6 MT/6 EM x 1:00)
-- Deep Rapidium Deposit (- 6 RP x 0:50)
-- Deep Minerals Deposit ( x )
+- Deep Rapidium Deposit (6 RP x 0:50)???
+- Deep Minerals Deposit (6 MN x )
 
 ## Maps
 ### Prologue
