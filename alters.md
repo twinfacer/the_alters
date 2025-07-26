@@ -5,6 +5,7 @@
 
 Items:
 - Multitool ([-REBEL] + [-FRUST])
+- Lava Lamp ([-GLOOM] + [-GLOOM])
 
 Quests:
 - Build __Park with bench__. (???)
