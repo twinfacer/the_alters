@@ -2,7 +2,7 @@
 - 6 x Elevator (12 = 6 x 2)
 - 4 x Small Storage (112 = 4 x 28)
 - 1 x Command Center (4 = 1 x 4)
-- 1 x Communication Room (4 = 1 x 4)
+- 1 x Communication Room (4 = 1 x 4) (R = 3:00)
 - 1 x Captain Cabin (4 = 1 x 4)
 - 1 x Airlock (4 = 1 x 4)
 - 1 x Mashinery (4 = 1 x 4)
