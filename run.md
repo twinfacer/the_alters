@@ -6,17 +6,17 @@
 
 == Day 02 (30 MT, 100 OG, 19 MU, 2 RF, 4 FT)
 - Go outside, run left - gather 2 __SMetal__ (+120 MT/-2:00 = 150 MT) on the way to __DOrganics__.
-- Return to base - build __Workshop__ (-40 MT = 110 MT) + rearange base (TODO - layout). Craft __Scanner__ (-20 MT = 90MT). Goto towards __DOrganics__ but turn left.
+- Return to base - build __Workshop__ (-40 MT = 110 MT) + rearange base (TODO - layout). Craft __Scanner__ (-20 MT = 90 MT). Goto towards __DOrganics__ but turn left.
 - Gather __SRapidium__ (-3:00/+60 RP) on the way then goto and find __DOrganics__ (gather 3 small OG packs along way (+24 OG = 124 OG)). Build __Miner Outpost__ there. Then connect __Miner Outpost__ via 5 __Pylons__ through cliff. (~17:30)
-- Goto and collect items at 2 sites at bottom of a map (right one has +3 MT node so as left one). Then goto base. (~20:00).
+- Goto and collect items at 2 sites at bottom of a map (right one has +3 MT node so as left one - +6 MT = 96 MT). Then goto base. (~20:00).
 - Answer phonecall from __Lucas__. Build __Womb__ (-40 MT = 56 MT) at lowest lvl right to __QC__. Test Rapidium. Answer another phonecall from __Lucas__. Goto sleep.
 
 == Day 03 (56 MT, 124 OG, 50 RP, 18 MU, 2 RF, 3 FT)
 - Goto another 2 __SMetal__ (+120 MT = 176 MT) deport and grind them (+30 MT from small ones along way = 206 MT). Then returns to base entrance then TP to __DOrganics__ and grind them until 18:00 then TP to Base.
-- Build a __Kitchen__ (-40 MT = 120 MT) (next to __Airlock__), craft __Mush__ till quest is done (23 __Mush__). Then goto sleep.
+- Build a __Kitchen__ (-40 MT = 166 MT) (next to __Airlock__), craft __Mush__ till quest is done (24 __Mush__). Then goto sleep.
 
-== Day 04 (165 MT , ~200 OG, 50 RP, 23 MU, 2 RF, 2 FT)
-- TP to __DOrganics__ and grind them until 300 OG reached. (~ 17:00) Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter (-20 RP).
+== Day 04 (166 MT , ~200 OG, 50 RP, 23 MU, 2 RF, 2 FT)
+- TP to __DOrganics__ and grind them until 300 OG reached. (~ 17:00) (??? Craft Miner Outpost and Pylon Package) Then try to start engine. Fix them then try another time. Call to earth, examine __QC__, then call earth again. Create __Technician__ alter (-20 RP = 30 RP).
 
 ```
   --- HELLO - [ANEX] + [INSEC]
@@ -55,7 +55,7 @@
   -> (DON'T TALK TO ME THIS WAY) - [REBEL] + [-JOY]
 ```
 
-- Turn on _low failure risk_ in __Mashinery__. Goto __Workshop__ then craft __Repair Kit__. Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
+- Turn on _low failure risk_ in __Mashinery__. Goto __Workshop__ then craft __Repair Kit__ (- 10 MT = 156MT). Fix __Communication Room__. Answer __Lucas__ call. Go to __QC__ and learn about alt's life.
 - Speak to __Technician__ at __Kitchen__.
 
 ```
@@ -71,7 +71,7 @@
 --- BREAKING_POINT
   -> (I'M COWARD)  - [-FRUST] + [-ANEX]
   -> (D'NT CHANGE) - [BURDEN] + [-JOY]
---- MOM STILL AROUND? - [-BURDEN] + [MOTIV] -> [BURD] + [-JOY]
+--- MOM STILL AROUND? - [-BURDEN] + [MOTIV] -> [BURDEN] + [-JOY]
 --- PIROGI - [JOY] + [-GLOOM]
 --- PIG - [JOY] + [-GLOOM]
 --- MAKE PIROGI - [-REBEL] + [MOTIV]
@@ -80,9 +80,8 @@
   -> (GREASE)  - [JOY] + [-GLOOM]
 ```
 
-- Make pirogi at __Kitchen__. Eat pirogi with __Technotian__.
+- Make pirogi at __Kitchen__. Eat pirogi with __Technotian__ than speak with him.
 
-=== After Pirogi dialog with Mechanic 
 ```
 --- SO
   -> (COOL) - [FRUST] + [GLOOM]
@@ -120,11 +119,10 @@
 
 === Act I (6-???) ===
 
-== Day 06 (155 MT, 232 OG, 30 RP, 23 MU, 1 FT)
+== Day 06 (156 MT, 232 OG, 30 RP, 23 MU, 1 FT)
 - Goto __QC__ and queue __Refiner__ alter. (-20 RP = 10 RP)
-- Queue neccesary stuff in __Workshop__ (__RAD Filter__, __Grappling Hook__, __Ventra Drill__,  __Miner Outpost__, __Pylon Package__, __Repair Kit__ = -190 MT/-180 OG/~ 8:18) and assign __Technitian__ to it.
+- Queue neccesary stuff in __Workshop__ (__Pylon Package__, __RAD Filter__, __Grappling Hook__, __Ventra Drill__,  __Miner Outpost__,  __Repair Kit__ = -190 MT/-180 OG/~ 8:18) and assign __Technitian__ to it.
 - Speak with __Technitian__.
-
 ```
 --- DISSCUS [-INSEC] + [JOY]
   -> (THANKS)   - [MOTIV] + [-INSEC]
@@ -134,7 +132,7 @@
   -> (SWEET) - NaN
   -> (COZY)  - NaN
 ```
-- Give him __Multitool__.
+- Give him __Multitool__. (NoW?)
 ```
 --- MULTITOOL - [-REBEL] + [-FRUST]
 
