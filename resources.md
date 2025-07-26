@@ -51,7 +51,7 @@ Items:
 -  Rubber Duck (Scientist???)
 -  Marked Cards
 -  Soccer Ball
--  Lava Lamp (Miner???)
+-  Lava Lamp (Technitian)
 -  People who allways ends your sentances movie
 -  Secret alien movie
 -  Damaged Qubit Chip
