@@ -30,7 +30,7 @@
 Items
 - Lucky Key Charm
 - Bong (Miner???)
-- Multitool (Mechanic)
+- Multitool (Technitian)
 - History Of The Universe Movie
 
 ### Act 1
@@ -57,5 +57,6 @@ Items:
 -  Damaged Qubit Chip
 
 ### Act 2
+- 
 
 ### Act 3
