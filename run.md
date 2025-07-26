@@ -88,27 +88,26 @@
   -> (FEEL) - [JOY], [-GLOOM]
 --- PIROGY
   -> (BAD)  - [-REBEL] + [MOTIV]
-    --- ENJOY
-      -> [SO_AS_I] - [JOY] + [-GLOOM]
-      -> [FEEL]    - [-GLOOM] + [-INSEC]
   -> (HARD) - [-GLOOM] + [-INSEC]
+--- ENJOY
+  -> [SO_AS_I] - [JOY] + [-GLOOM]
+  -> [FEEL]    - [-GLOOM] + [-INSEC]
 --- PLAN
   -> (CORP)    - [ANEX] + [-JOY]
       -> (HE_TOLD_ME) - [FRUST] + [GLOOM]
-        --- ABOUT_ME
-          -> (IDK) - [GLOOM] + [REBEL]
-          -> (FINE)
-      -> (NESSESARY)  - [ANNEX] + [???]
+      -> (NESSESARY)  - [ANNEX] + [-JOY]
         -- WHAT_WITH_ME
-          -> (IDK)  - 
+          -> (IDK)  - [GLOOM] + [REBEL]
           -> (FINE) - [ANNEX] + [-JOY]
   -> (OURSELF) - [MOTIV] + [-GLOOM]
     -- ABOUT_ME
       -> (THEY_TOLD_ME) - [FRUST] + [-JOY]
+      -> (LEAVE_IT_TO_ME) - [-REBEL] + [-FRUST]
         --- WHAT_TO_DO
           -> (I_KNOW)    - [-FRUST] + [-ANEX]
+          -> (IMPROVISE) - [-FRUST] + [-ANEX]
 -- MOAR_VERSIONS
-  -> (ME) [REBEl] + [-JOY]
+  -> (ME) [REBEL] + [-JOY]
   -> (US) [JOY] + [-GLOOM]
 --- COOKING_SKILLS
   -> (TRY_AVOID) - [-REBEL] + [-FRUST]
