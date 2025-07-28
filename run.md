@@ -396,7 +396,7 @@ __DEnriched__, __DOrganics__, __DRapidium__ and __DMineral__ deposit should be h
     --- MICRO MANAGEMENT - [MOTIV] + [-INSEC]
 ```
 
-``` w tech about food
+``` w tech about food (when low food???)
 --- FRINGE - [-REBEL] + [-FRUST] -> [-BURDEN] + [MOTIV]
 ```
 
