@@ -144,6 +144,16 @@
 - Build neccasary base modules - __Research Lab__. Assign __Scientist__ to it. Queue research - __Enriched Metal Efficiency__ and ____.
 
 == Day 7 (  52 OG, (16-15) MU)
+- Talk to __Technitian__
+```
+--- TIRED - [FRUST] + [-JOY]
+  -> (DORM)        - [-REBEL] + [MOTIV]
+  -> (CANT AFFORD) -
+```
+
+``` After Dorm is build
+--- BUILD - [MOTIV] + [-GLOOM]
+```
 - ??? Queue __Miner Outpost__ (??? and __Pylon Package__ if need for pylons) at workshop. Assign ??? to it (If has spare metal and plan to build a __DRapidium__ outpost today)
 - Goto __Womb__ and wake up __Scientist__.  
 
