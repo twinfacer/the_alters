@@ -53,7 +53,7 @@
   - Greenhouse (40 MT/20 RP) 16T - 1x8
   - Refinery (40 MT) 8T - 1x4
     - Metals & Organics (8 EM -> 8 MT/8 OG - 0:30)
-    - Polymers () [ACT1, QUEST]
+    - Polymers x 10 (20 OG/20 MN - 2:00) [ACT1, QUEST]
     - ALX to OG [RESEARCH_REQ]
     - ALX to MT [RESEARCH_REQ]
     - ALX to MN [RESEARCH_REQ]
