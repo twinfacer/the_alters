@@ -158,30 +158,247 @@
 - Goto __Womb__ and wake up __Scientist__.  
 
 ```
---- 
+--- RAPIDIUM
+  -> (ALOT)          -
+  -> (NOT_IMPORTANT) - [FRUST] + [REBEL]
+--- HOW - [MOTIV] + [-INSEC]
+--- CORRECT ME
+  -> (WRONG)      -
+  -> (IMPRESSIVE) - [MOTIV] + [-INSEC]
+--- WHAT DO YOU NEED FROM ME
+  -> (WORK) -
+  -> (REST) - [FRUST] + [MOTIV]
 
 ```
 
-- Assign __Scientist__ to __Research Lab__ (??? mb organics outpost instead). Goto talk to __Technitian__. (DORM?)
-
-```
----
-
-```
-
+- Assign __Scientist__ to __Research Lab__ (??? mb organics outpost instead). 
 - Go toward __DEnriched__ but instead turn right near it, jump up to cliff and run near __SOrganics__ until you can see you base. Then build __Pylon__ as far form base but close to __SOrganics__ (??? then drill it down) as you can. After __SOrganics__ turn left then right than mine __SRapidium__. Return and clear _rock blockade_ further. Go and when __DRapidium__ deposit starts to appear turn left run further then drill __SMetal__ deposit.
 - ??? Return back and find __DRapidium__ deposit (??? and build __Miner Outpost__ on them)
 - ??? Return back and connect __Travel Pylon__ to your network. TP to base. (??? or grind some resources before night if has time) (??? turn on _radiation filter_ now?)
 - ??? Build __Greenhouse__
 - (??? talk to __Scientist__ ) Goto sleep.
+``` W Sci about anomalies
+--- PROXIMITY PLANE
+  -> (LIKE)  -
+  -> (CRAZY) -
+  -> (CLEAR) - [MOTIV] + [ANNEX]
+```
+
+``` w Sci abour him
+--- HOW ARE YOU - [-GLOOM] + [-ANNEX]
+--- NO OPTIMAL
+  -> (I GOT THIS) ->
+  -> (ALLY CORP)  ->
+  -> (TEACH ME)   -> [MOTIV] + [-INSEC]
+--- SLOW ENOUGH
+  -> (TEAM_BUILD) -> [FRUST] + [REBEL] -> [BURDEN] + [-JOY]
+  -> (NO_BOOZE?)  ->
+  -> (IDLE_CONV)  ->
+--- TECH
+  -> (UNDERSTAND) -> [FRUST] + [MOTIV]
+  -> (FOCUS)      ->
+  -> (RESEARCH)   ->
+```
+
+``` give sci a rubber duck
+--- [JOY] + [-GLOOM]
+```
 
 == Day 8
+``` W TEch about lava river
+--- LAVA RIVER - [ANEX] + [-JOY] ???
+  -> (BACK_OUT) -
+  -> (ACCROSS)  - [MOTIV] + [-INSEC]
+```
 
+``` W TEch about workload (Social Room)
+--- LOAD
+  -> (WHAT_I_WANT)    -
+  -> (no_NEGOTIATIAN) - [-ANNEX] + [-JOY] -> [-FRUST] + [-ANNEX]
+--- BEERPONG
+  -> (OKAY)       - NaN
+  -> (I_BEAT_YOU) -
+  -> (LATER)      -
+```
+
+``` After (When you lose?)
+--- THX  - [JOY] + [-GLOOM]
+  -> (DORM) -
+  -> (SOC)  -
+  -> (ARK)  - NaN
+```
+
+
+``` Jan Ref Awakens
+--- WHO ARE YOU
+  -> (DNT_WORRY)  - [ANEX] + [????]
+  -> (DISTURBING) - [ANEX] + [-JOY]
+--- WE BROS?
+  -> (IN_A_WAY) - [-GLOOM] + [-INSEC]
+    --- RAPID - [-GLOOM] + [MOTIV] - ???
+      -> (SHIT)
+      -> (BEN) - [BAD] + [BAD] - SRY, Check it again
+      -> (STOP)
+  -> (MOAR) - [ANEX] + [????]
+    --- RAPIDIUM - [-BURDEN] + []
+      -> (SHIT) - [MOTIV] + [???BAD]
+      -> (BEN) - [BAD] + [BAD] - SRY, Check it again
+      -> (STOP)
+```
+``` w ref about situation
+--- SITUATION - [-GLOOM] + [-ANEX]
+--- WEAK
+  -> (HELP)      -
+  -> (SHAPE)     - [GLOOM] + [REBEL]
+  -> (CONTAINER) -
+--- STAMINA
+  -> (STRONG)    - [MOTIV] + [-INSEC]
+  -> (IMPORTANT) -
+--- PROBLEMS
+  -> (YOUR) - [BURDEN] + [-JOY]
+  -> (OUR)
+--- VERSION
+  -> (POSSIBLE) - [MOTIV] + [ANEX]
+    --- HYPOTHETICALY
+      -> (HARD)         - NaN
+        --- SOMETHING ELSE
+          -> (WORK) - [MOTIV] + [ANEX]
+          -> (FUN)  -
+      -> (THEORETICALY) -
+  -> (NO IDEA)  -
+```
 == Day 10
 Must have 3 alters (+1 queued up).
 __DEnriched__, __DOrganics__, __DRapidium__ and __DMineral__ deposit should be hooked up.
 
+``` w Sci about lava river (when ressearch is complete)
+--- BRIDGE
+  -> (EXCITING)  -
+  -> (DANGEROUS) -
+  -> (DIFFICULT) - [MOTIV] + [-INSEC]
+--- BLUEPRINTS
+  -> (STOP)    -
+  -> (TYPICAL) - [FRUST] + [REBEL]
+  -> (VERSYNT) -
+--- CONTACT
+  -> (YES)   - NaN
+  -> (MAYBE) -
+--- STUCK - [MOTIV] + [ANEX] ???
+```
+
+``` w sci about bridge
+--- MINING OPS - [FRUST] + [-JOY]
+  -> (AMATURES)  -
+  -> (NOT EXIST) - [ANEX] + [-JOY]
+--- LACK OF RESAULTS - [BURDEN] + [-JOY] -> [FRUST] + [BURDEN]
+--- NO_TIME
+  -> (WORK)   -
+  -> (BELIVE) - [MOTIV] + [ANEX]
+```
+
+```w sci after bridge research
+--- RECREATE
+  -> (PROUD YOU) - [MOTIV] + [-INSEC]
+  -> (PROUD US)  -
+  -> (I KNEW)    -
+--- POLYMERS
+  -> (MOAR) -
+  -> (SIMPLE) - [FRUST] + [GLOOM]
+```
+
+```w sci about Lena
+--- LENA
+  -> (RIGHT) - [MOTIV] + [-INSEC]
+  -> (LOVE)  -
+--- DIVORCE - [BURDEN] + [-JOY] -> [MOTIV] + [-INSEC]
+--- NEVER
+  -> (FAIR)        - [MOTIV] + [-INSEC]
+  -> (NO RATIONAL) -
+```
+
+```w tech about Lena
+--- LENA - [JOY] + [-GLOOM]
+```
+
+``` give lavalamp to tech
+--- LAVALAMP - [JOY] + [-GLOOM]
+```
+
+``` w tech about 1 chip
+--- New TECH
+  -> (BROKEN) - NaN
+  -> (PLUG)
+  -> (ALTERS) 
+```
+
+```w sci about how i'm doing
+--- HOW - [-GLOOM] + [-ANNEX]
+  -> ()
+  -> ()
+--- ONLY SUCCESS
+  -> (HAPPYNES) -
+  -> (HELPING)  - [GLOOM] + [REBEL] -> [MOTIV] + [-INSEC]
+  -> (LOVE)
+  -> (NOTHING)
+--- STOP PUSHING
+  -> (EASY MONEY) -
+  -> (TIRED)      -
+  -> (LIVE)       - NaN
+--- SO DID I - [MOTIV] + [-INSEC]
+  -> (SAME)  - [MOTIV] + [-INSEC]
+  -> (HUMAN)
+  -> (LIFE)
+--- IMAGINE - [MOTIV] + [REBEL]
+  -> (ROGUE AI)  -
+  -> (STICK)     -
+  -> (EFFICIENT) - NaN
+```
+
+``` tech & sci argue
+```
+
 == Day 16 (Magnetic Storm)
+
+== Day 17 (Moar Stuff Appear) ===
+``` w sci about crunch
+--- REMEBER - [-GLOOM] + [-ANEX]
+--- TRY HARDER
+  -> (TELL ME) -
+  -> (ENOUGH)  -
+--- EMERGENCY
+  -> (HATE)       -
+  -> (PRODUCTIVE) - [MOTIV] + [-INSEC]
+--- CRUCIAL TASKS
+  -> (OK)    - [-REBEL] + [-FRUST]
+  -> (MAYBE) -
+  -> (NO)    -
+```
+``` after crunch
+--- CONGRATRS - [-GLOOM] + [-ANEX]
+  -> (CONVINCED)
+  -> (WORTH IT)  - [-REBEL] + [-FRUST]
+    --- HARDHEADED - [-REBEL] + [-FRUST]
+  -> (NEVER)
+```
+
+```w sci about internal
+--- CAUSE OF RAPIDIUM
+  -> (STUDY)
+  -> (DISTRACTION) - [FRUST] + [REBEL]
+```
+
+
+``` w tech about mag storm
+--- PREPARE
+  -> (GOT THIS) -
+  -> (IDEAS)    - [MOTIV] + [-GLOOM]
+    --- UPHOLD - [-BURDEN] + [MOTIV]
+    --- MICRO MANAGEMENT - [MOTIV] + [-INSEC]
+```
+
+``` w tech about food
+--- FRINGE - [-REBEL] + [-FRUST] -> [-BURDEN] + [MOTIV]
+```
 
 === Act 2 (Day 20ish) ===
 
