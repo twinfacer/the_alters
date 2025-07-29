@@ -401,6 +401,23 @@ __DEnriched__, __DOrganics__, __DRapidium__ and __DMineral__ deposit should be h
 ```
 
 === Act 2 (Day 20ish) ===
+``` w Jan refiner about his body
+--- DON'T AMCKE SENCE
+  -> (CONTENT)  - 
+  -> (TECH)     - [MOTIV] + [ANEX]
+  -> (OBSESSED) -
+--- NEGLECTED
+  -> (IMPORTANT) - NaN
+    --- FRIENDS - [GLOOM] + [-JOY]
+  -> (NEGLECT)
+--- JYM
+  -> (GET YOU) - [-REBEL] + [MOTIV]
+  -> (NO TIME) -
+--- EQUIPMENT
+  -> (TRY)   - [-REBEL] + [MOTIV]
+  -> (THINK) -
+  -> (OUT)   - 
+```
 
 == Day 20(23) ==
 - Queue __Qubit Chip__ in __Workshop__ then go outside. Goto see great anomaly on left then turn around and goto __DEnriched__ (making __Pylon__s along way) and setup mining outpost (grab __Qubit Chip__ from chest along way) then goto and hook up __DOrganics__ and __DMinerals__ then return to base.
