@@ -39,6 +39,7 @@ Items
 
 Items:
 - Band T-Shirt
+-
 
 ### Botanist
 - +100% efficiency when growing crops in the __Greenhouse__.
@@ -56,6 +57,10 @@ Items:
 
 ### Guard (III QL + Technitian REQ)
 - Disciplines alters in the __Contemplation Room__.
+
+Items:
+-
+-
 
 ### Therapist (III QL + Doctor REQ)
 - Comforts alters in the __Contemplation Room__.
