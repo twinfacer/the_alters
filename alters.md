@@ -15,13 +15,17 @@ Quests:
 
 Items:
 - Rubber Duck
-- 
+- University hoody.
 
 Quests:
 - Personal research.
 
 ### Miner
 - +50% efficiency on metal deposits.
+
+Items:
+-
+-
 
 ### Refiner
 - +50% efficiency on refining metal in __Refinery__.
