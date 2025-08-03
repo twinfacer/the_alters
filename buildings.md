@@ -14,8 +14,8 @@
 ### Base upgrade
 | Tier | Cost | Organic Tank |
 | -----|------|--------------|
-|  1   | -           | 300   |
-|  2   | 60 MT/40 MN | 450   |
+|  1   | -             | 300 |
+|  2   | 60 MT/40 MN   | 450 |
 |  3   | 120 MT/100 MN | 700 |
 |  4   | 240 MT/200 MN | 800 |
 
@@ -30,10 +30,11 @@
       - Mining Outpost (30 MT - 2:00 ) 25V
       - Pylon (x3) (30 MT - 1:18) 24V
       - Suit Battery (40 OG - 1:00) 0V? [ACT1+]
+      - Drill Cartrige (20 MT - 1:00) 15V?
+      - Shield Recharge (20 MN - 0:30) 25V
     - Base
       - Repair Kit (10 MT - 1:00) 2V [JOURNEY1+]
       - Radiation Filter (10 MT/40 OG - 2:00) 20V [ACT1+]
-      - Drill Cartrige (20 MT - 1:00) 15V?
       - Qubit Chip (20 MT/20 MN/1 Broken Chip - 1:00) 10V
     - Gear
       - Scanner (20 MT - 1:00) [PROLOGUE,QUEST]
